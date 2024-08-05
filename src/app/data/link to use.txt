@@ -1,8 +1,10 @@
 To get stats value by each level http://www.psypokes.com/gsc/dv.php 
-To get sounds https://veekun.com/dex/pokemon/bulbasaur 
+To get sounds and damage taken by other type https://veekun.com/dex/pokemon/bulbasaur 
 To get pokemon description https://www.wikidex.net/wiki/Bulbasaur
 To get back sprite https://www.pokencyclopedia.info/en/index.php?id=sprites/gen5/ani-b_black-white
 To get front sprite https://www.pokencyclopedia.info/en/index.php?id=sprites/gen5/ani_black-white 
 
 
 // add movemnets by level??
+
+\n

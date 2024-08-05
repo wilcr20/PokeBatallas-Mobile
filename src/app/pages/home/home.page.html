@@ -7,14 +7,21 @@
 </ion-header> -->
 
 <ion-content [fullscreen]="true">
-  <ion-header collapse="condense">
+  <!-- <ion-header collapse="condense">
     <ion-toolbar>
       <ion-title size="large">Blank</ion-title>
     </ion-toolbar>
-  </ion-header>
+  </ion-header> -->
 
   <div id="container">
-    <img src="https://www.pokencyclopedia.info/sprites/gen5/ani_black-white/ani_bw_001.gif" alt="" srcset="">
+    <div *ngFor="let pokemon of pokemonsDataJSON" style="background-color: white;" (click)="playSound(pokemon.sound)">
+      <br>
+      <img src={{getImgSource(pokemon,pokemon.frontSprite)}}  alt="" srcset="">
+      <img src={{getImgSource(pokemon,pokemon.backSprite)}}  alt="" srcset="">
+      <!-- "../../../assets/images/pokemons/"{{pokemon.frontSprite}}  -->
+      <hr style="border-top: 2px solid green;">
+    </div>
+    
     
   </div>
 </ion-content>

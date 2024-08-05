@@ -102,6 +102,206 @@
                     "specialDefense": [228,258]
                 }
             ]
+        },
+        {
+            "id": 3,
+            "name": "Venusaur",
+            "frontSprite": "3_front.gif",
+            "backSprite": "3_back.gif",
+            "sound": "3.ogg",
+            "type1": "grass",
+            "type2": "poison",
+            "isEvolved": true,
+            "description": "Venusaur, según Ken Sugimori y Junichi Masuda en una entrevista, está basado en una rana, al igual que toda su línea evolutiva3. El botón de flor que lleva sobre su lomo se abre completamente, dejando ver una enorme flor rosada, parecida a Rafflesia arnoldii y unas hojas semejantes a las o de una cicadácea, que se nutre de la luz solar por fotosíntesis. A través de ella, Venusaur realiza uno de sus ataques más potentes: rayo solar. Esta planta segrega una savia muy dulce que atrae a muchos Pokémon de tipo bicho. Venusaur tiene la habilidad de liberar un aroma dulce que puede tranquilizar a los demás Pokémon. Los Venusaur son muy longevos y cuando alcanzan una larga edad, el aroma que sale de su flor es tan potente que puede hacer florecer los bosques y hacer brotar a los árboles secos. Su aroma lo emana incluso cuando se encuentra durmiendo. Si un Venusaur duerme con sus lianas sin retraer, es un indicativo de que el Pokémon se encuentra muy a gusto y relajado.\nLa gran flor que tiene sobre su espalda va tomando colores intensos si está llena de nutrientes y luz solar, se dice que son más poderosos en verano, estación del año donde pueden recibir más rayos de sol, además de constantes lluvias que potencian el aroma de su flor. Venusaur es un Pokémon bastante inteligente y dócil, son bastante territoriales con los lugares que protegen, pues al ser Pokémon grandes ayudan a proteger a los más pequeños, sobre todo a los tipo planta y bicho.",
+            "statsValuesBylevel": 
+            [
+                {
+                    "level": 1,
+                    "hp": [13,13] ,
+                    "attack": [7,7],
+                    "defense": [7,7],
+                    "speed": [7,7],
+                    "specialAttack": [7,7],
+                    "specialDefense": [7,7]
+                },
+                {
+                    "level": 25,
+                    "hp": [90,98] ,
+                    "attack": [61,69],
+                    "defense": [62,69],
+                    "speed": [60,68],
+                    "specialAttack": [70,78],
+                    "specialDefense": [70,88]
+                },
+                {
+                    "level": 50,
+                    "hp": [171,186] ,
+                    "attack": [118,133],
+                    "defense": [119,134],
+                    "speed": [116,131],
+                    "specialAttack": [136,151],
+                    "specialDefense": [136,151]
+                },
+                {
+                    "level": 100,
+                    "hp": [333,363] ,
+                    "attack": [232,262],
+                    "defense": [234,264],
+                    "speed": [228,258],
+                    "specialAttack": [268,298],
+                    "specialDefense": [268,298]
+                }
+            ]
+        },
+        {
+            "id": 4,
+            "name": "Charmander",
+            "frontSprite": "4_front.gif",
+            "backSprite": "4_back.gif",
+            "sound": "4.ogg",
+            "type1": "fire",
+            "type2": null,
+            "isEvolved": false,
+            "description": "Charmander es un pequeño monstruo bípedo parecido a un lagarto. Sus características de fuego son resaltadas por su color de piel anaranjado y su cola, cuya punta está envuelta en llamas. Charmander y sus evoluciones, Charmeleon y Charizard, tienen una pequeña llama en la punta de sus colas desde que nacen. La intensidad con la que ésta arde es un indicador del estado de salud y emocional de este Pokémon: si la llama arde con mucha fuerza, indica que está completamente sano, y si arde muy levemente, significa que se encuentra débil. El Pokémon podría morir si la llama de su cola se apaga. Cuando son bebés aún no están familiarizados con el fuego, pudiendo llegar a quemarse a sí mismos.\nViven en grupos, cuidando las llamas de sus colas entre sí. Prefieren los lugares silenciosos y rocosos. En estos lugares si se presta mucha atención, se pueden llegar a escuchar el tenue chisporroteo de su llama. Los lugares secos y cálidos son mejores para ellos, por lo que frecuentemente son encontrados en cuevas o en las cercanías de volcanes y montañas. En la lluvia es fácil reconocerlos por el vapor que emana de su cola, la cual seguirá ardiendo aunque se moje un poco. Al dormir usan su cola para calentarse.",
+            "statsValuesBylevel": 
+            [
+                {
+                    "level": 1,
+                    "hp": [12,12] ,
+                    "attack": [6,6],
+                    "defense": [6,6],
+                    "speed": [6,7],
+                    "specialAttack": [6,7],
+                    "specialDefense": [6,6]
+                },
+                {
+                    "level": 25,
+                    "hp": [70,77] ,
+                    "attack": [46,54],
+                    "defense": [42,49],
+                    "speed": [53,60],
+                    "specialAttack": [50,58],
+                    "specialDefense": [45,53]
+                },
+                {
+                    "level": 50,
+                    "hp": [130,145] ,
+                    "attack": [88,103],
+                    "defense": [79,94],
+                    "speed": [101,116],
+                    "specialAttack": [96,111],
+                    "specialDefense": [86,101]
+                },
+                {
+                    "level": 100,
+                    "hp": [251,281] ,
+                    "attack": [172,202],
+                    "defense": [154,184],
+                    "speed": [198,228],
+                    "specialAttack": [188,218],
+                    "specialDefense": [168,198]
+                }
+            ]
+        },
+        {
+            "id": 5,
+            "name": "Charmeleon",
+            "frontSprite": "5_front.gif",
+            "backSprite": "5_back.gif",
+            "sound": "5.ogg",
+            "type1": "fire",
+            "type2": null,
+            "isEvolved": true,
+            "description": "Charmeleon es un gran lagarto bípedo con escamas de color rojo oscuro y en la parte inferior de color crema (desde el pecho hasta abajo), posee como característica general una llama en la punta de su cola al igual que Charmander y Charizard. Esta refleja el estado físico y emocional del Pokémon y si la llama se extingue, también lo hace la vida del mismo. Tiene ojos azules estrechos. El color de su piel es más oscuro que el de Charmander y el de Charizard, y también lo es su llama.\nCharmeleon, es un Pokémon orgulloso que ama las batallas, esgrime su cola para elevar la temperatura y buscando derribar al oponente, cuando lo hace, no tiene reparo en acabarlo con sus afiladas garras. De naturaleza bárbara, si se encuentra con un Pokémon fuerte en su camino se torna agresivo para buscar un combate con él. En ese estado de excitación, la llama de la punta de su cola arde con más fervor y comenzara a lanzar llamaradas blanco-azuladas. Este Pokémon solo se calmará hasta obtener la victoria. El único momento en que su fervor combativo desaparece, es cuando se encuentra durmiendo. Si en ese momento se encuentra totalmente relajado, dormirá plácidamente usando sus brazos a modo de almohada.\nEl hábitat de este Pokémon es la montaña, vive, al igual que Charmander, en zonas rocosas o incluso volcanes, en la noche se puede ver a lo lejos sus colas ardientes asemejándose a estrellas.",
+            "statsValuesBylevel": 
+            [
+                {
+                    "level": 1,
+                    "hp": [12,13] ,
+                    "attack": [6,7],
+                    "defense": [6,7],
+                    "speed": [7,7],
+                    "specialAttack": [7,7],
+                    "specialDefense": [6,7]
+                },
+                {
+                    "level": 25,
+                    "hp": [79,87] ,
+                    "attack": [52,60],
+                    "defense": [49,57],
+                    "speed": [60,68],
+                    "specialAttack": [60,68],
+                    "specialDefense": [53,60]
+                },
+                {
+                    "level": 50,
+                    "hp": [149,164] ,
+                    "attack": [100,115],
+                    "defense": [94,109],
+                    "speed": [116,131],
+                    "specialAttack": [116,131],
+                    "specialDefense": [101,116]
+                },
+                {
+                    "level": 100,
+                    "hp": [289,319] ,
+                    "attack": [196,226],
+                    "defense": [184,214],
+                    "speed": [228,258],
+                    "specialAttack": [228,258],
+                    "specialDefense": [198,228]
+                }
+            ]
+        },
+        {
+            "id": 6,
+            "name": "Charizard",
+            "frontSprite": "6_front.gif",
+            "backSprite": "6_back.gif",
+            "sound": "6.ogg",
+            "type1": "fire",
+            "type2": "flying",
+            "isEvolved": true,
+            "description": "La figura de Charizard es la de un dragón erguido sobre sus dos patas traseras, que sostienen su peso. Posee unas poderosas alas y un abrasador aliento de fuego. También posee un cuello largo y una poderosa cola terminada en una llama que arde con más fuerza si ha vivido duros combates, aunque al igual que con su línea evolutiva, si esta se apaga el Pokémon puede llegar a morir.\nEs muy presuntuoso, violento, agresivo y muy orgulloso. Es tanto así, que no es capaz de pelear contra un Pokémon más débil que él y si llegará a pelear con uno, no usaría sus llamas. Es por esta sencilla razón que prefiere luchar contra oponentes que le representen un desafío. Hasta que no derrote a su adversario no parará. Es capaz de fundir hasta rocas, derretir glaciares, fundir el acero o causar incendios forestales con el fuego que escupe, aunque muchas veces lo haga sin querer, este fuego va ganando intensidad conforme sume experiencia en los combates, por lo que comúnmente se le ve volando buscando adversarios con los cuales volverse más fuerte. Cuando Charizard se enfurece la llama de la punta de su cola producirá destellos de color azul claro. Puede dormir totalmente relajado, confiado quizás de la enorme fuerza que tiene. Si un ejemplar dormido se encuentra despatarrado panza arriba, es señal de que carga una fuerza descomunal.\nCharizard posee un poderoso e innato sentido del honor, por lo que solo utilizará su fuerza y habilidades para luchar contra oponentes que considere a su altura. El hábitat de Charizard es la montaña y zonas volcánicas como sus preevoluciones, en ocasiones se los ve agrupados con Charmander. Sin embargo, este vive en zonas más altas, aunque igualmente rocosas. Esto se debe a su habilidad de poder volar, se puede mantener a 1400 metros de altura sin problemas. En la región de Johto existe un lugar conocido como el Valle Charicífico, donde habitan varios ejemplares de este Pokémon, ahí viven combatiendo entre sí para pulir sus habilidades y hacerse más fuertes.",
+            "statsValuesBylevel": 
+            [
+                {
+                    "level": 1,
+                    "hp": [13,13] ,
+                    "attack": [7,7],
+                    "defense": [7,7],
+                    "speed": [7,7],
+                    "specialAttack": [7,8],
+                    "specialDefense": [7,7]
+                },
+                {
+                    "level": 25,
+                    "hp": [89,97] ,
+                    "attack": [62,70],
+                    "defense": [59,67],
+                    "speed": [70,78],
+                    "specialAttack": [75,82],
+                    "specialDefense": [63,70]
+                },
+                {
+                    "level": 50,
+                    "hp": [169,184] ,
+                    "attack": [120,135],
+                    "defense": [114,129],
+                    "speed": [136,151],
+                    "specialAttack": [145,160],
+                    "specialDefense": [121,136]
+                },
+                {
+                    "level": 100,
+                    "hp": [329,359] ,
+                    "attack": [236,266],
+                    "defense": [224,254],
+                    "speed": [268,298],
+                    "specialAttack": [286,316],
+                    "specialDefense": [238,268]
+                }
+            ]
         }
     ]
 }
