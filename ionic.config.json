@@ -1,0 +1,7 @@
+{
+  "name": "PokeBatallas",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
