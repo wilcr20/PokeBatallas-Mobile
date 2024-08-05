@@ -11,6 +11,22 @@ const routes: Routes = [
     redirectTo: 'home',
     pathMatch: 'full'
   },
+  {
+    path: 'pokedex',
+    loadChildren: () => import('./pages/pokedex/pokedex.module').then( m => m.PokedexPageModule)
+  },
+  {
+    path: 'credits',
+    loadChildren: () => import('./pages/credits/credits.module').then( m => m.CreditsPageModule)
+  },
+  {
+    path: 'play-battle',
+    loadChildren: () => import('./pages/play-battle/play-battle.module').then( m => m.PlayBattlePageModule)
+  },
+  {
+    path: 'profile',
+    loadChildren: () => import('./pages/profile/profile.module').then( m => m.ProfilePageModule)
+  },
 ];
 
 @NgModule({
