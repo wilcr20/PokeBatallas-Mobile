@@ -452,6 +452,856 @@
                     "specialDefense": [278,308]
                 }
             ]
+        },
+        {
+            "id": 10,
+            "name": "Caterpie",
+            "frontSprite": "10_front.gif",
+            "backSprite": "10_back.gif",
+            "sound": "10.ogg",
+            "type1": "bug",
+            "type2": null,
+            "isEvolved": false,
+            "description": "Caterpie podría estar basado en una oruga del género Papilio, orugas con un diseño que imita grandes ojos como los de Caterpie y un par de apéndices sobre la cabeza muy similares a las antenas de Caterpie, que suelen mostrar cuando se sienten amenazadas Papilio. Tiene pequeños pies con ventosas en sus extremos que le permiten trepar árboles y paredes sin mucho esfuerzo. Es un Pokémon bastante común, sobre todo por la zona de Kanto. Caterpie es un Pokémon relativamente débil y como tal ha desarrollado adaptaciones para su supervivencia.\nSu característica más notable son sus brillantes antenas de color rojo sobre su cabeza. Estas, junto con sus grandes ojos, ayudan a ahuyentar depredadores. Cuando se le toca este Pokémon es capaz de producir una sustancia que desprende un hedor de su antena. Además, su cuerpo termina en una cola con forma de signo de exclamación. Tienen que ser muy veloces, pues si son avistados por algún Pidgey, este no dudará en cazarlos. Por lo que se deberá enterrar bajo tierra para evitar ser atrapados, solo los Caterpie más lentos caen presa de estos Pokémon, es por ello que son considerados sus archienemigos.\nLos Caterpie crecen muy rápidamente, por lo que comen vorazmente para llenar sus reservas de energía, se alimenta de hojas, bayas y miel. Una vez hayan finalizado su etapa como larva, él mismo se enredará en su propia saliva solidificada, entrando en una nueva etapa llamada estado de pupa o capullo, tras lo que evolucionará a Metapod. Como es fácil de atrapar y se desarrolla fácilmente, es idóneo como compañero para los entrenadores menos experimentados.\nCaterpie es un Pokémon pacífico y no demasiado fuerte, habitualmente no se ve implicado en enfrentamientos con otros Pokémon de su hábitat, principalmente porque su único deber es el de buscar comida para poder desarrollarse. Puede encontrarse en bosques poblados de numerosos árboles donde hace sus nidos. Ocultos en la hierba, donde se hartan de comida. Cuando duerme a veces se los puede ver chorreando hilos de seda en lugar de saliva. Siempre se le ve junto a un grupo de Caterpie o acompañado de otro Pokémon bicho. Rara vez se encuentra solo, debido a que puede ser presa fácil de Pokémon pájaro.",
+            "statsValuesBylevel": 
+            [
+                {
+                    "level": 1,
+                    "hp": [12,12] ,
+                    "attack": [6,6],
+                    "defense": [6,6],
+                    "speed": [6,6],
+                    "specialAttack": [6,6],
+                    "specialDefense": [6,6]
+                },
+                {
+                    "level": 25,
+                    "hp": [73,80],
+                    "attack": [35,43],
+                    "defense": [38,45],
+                    "speed": [43,50],
+                    "specialAttack": [30,38],
+                    "specialDefense": [30,38]
+                },
+                {
+                    "level": 50,
+                    "hp": [136,151] ,
+                    "attack": [66,81],
+                    "defense": [71,86],
+                    "speed": [81,96],
+                    "specialAttack": [56,71],
+                    "specialDefense": [56,71]
+                },
+                {
+                    "level": 100,
+                    "hp": [263,293] ,
+                    "attack": [128,158],
+                    "defense": [138,168],
+                    "speed": [158,188],
+                    "specialAttack": [108,138],
+                    "specialDefense": [108,138]
+                }
+            ]
+        },
+        {
+            "id": 11,
+            "name": "Metapod",
+            "frontSprite": "11_front.gif",
+            "backSprite": "11_back.gif",
+            "sound": "11.ogg",
+            "type1": "bug",
+            "type2": null,
+            "isEvolved": true,
+            "description": "Metapod está basado en la crisálida de una Papilio. Su piel es de color verde intenso, en la que solamente sus ojos son visibles. Su boca es el pequeño rombo que tiene un poco debajo de la altura de sus ojos, por donde puede disparar su disparo demora.\nCuando ha evolucionado recientemente de un Caterpie, su crisálida, que está hecha de quitina, es muy blanda aún, por lo que puede correr grave peligro. Usando su movimiento fortaleza su cuerpo se va volviendo cada vez más resistente. Aunque la quitina se endurece rápidamente como una plancha de hierro, Metapod todavía está en riesgo, pues un impacto puede dañar su cuerpo o hacerlo estallar hacia fuera, dejando entrever su frágil cuerpo interior. Él cual estando en estado catatónico, lo vuelve una presa que no ofrece resistencia alguna. Por esta razón, y para conservar la energía, Metapod apenas se mueve, preparándose dentro de su cáscara para su evolución inminente. Por lo cual no se recomienda llevar a Metapod a combates muy intensos.\nMetapod, al igual que otros insectos, habita principalmente en zonas boscosas. Se encuentra usualmente en el bosque Verde, sobre las ramas de algunos árboles y ocultos entre la maleza para no ser molestados, mientras se preparan para evolucionar. Se ha comprobado que usa fortaleza incluso mientras duerme, esto para proteger su delicado cuerpo.",            
+            "statsValuesBylevel": 
+            [
+                {
+                    "level": 1,
+                    "hp": [] ,
+                    "attack": [],
+                    "defense": [],
+                    "speed": [],
+                    "specialAttack": [],
+                    "specialDefense": []
+                },
+                {
+                    "level": 25,
+                    "hp": [],
+                    "attack": [],
+                    "defense": [],
+                    "speed": [],
+                    "specialAttack": [],
+                    "specialDefense": []
+                },
+                {
+                    "level": 50,
+                    "hp": [] ,
+                    "attack": [] ,
+                    "defense": [] ,
+                    "speed": [] ,
+                    "specialAttack": [] ,
+                    "specialDefense": []
+                },
+                {
+                    "level": 100,
+                    "hp": [] ,
+                    "attack": [] ,
+                    "defense": [] ,
+                    "speed": [] ,
+                    "specialAttack": [],
+                    "specialDefense": []
+                }
+            ]
+        },
+        {
+            "id": 12,
+            "name": "Butterfree",
+            "frontSprite": "12_front.gif",
+            "backSprite": "12_back.gif",
+            "sound": "12.ogg",
+            "type1": "bug",
+            "type2": "flying",
+            "isEvolved": true,
+            "description": "Butterfree está basado en una mariposa y su forma Gigamax en mothra. Su cuerpo está dividido en dos partes: cabeza y tronco. Butterfree posee unos grandes ojos rojos, un cuerpo de color púrpura oscuro, dos pequeñas manos y dos pies de un color azul cielo. Sus alas blancas están cubiertas por un polvo tóxico y son impermeables al agua. Gracias a ellas puede volar hasta en los días con lluvia. Poseen una habilidad especial que les permite localizar a la miel, polen y el néctar de las flores, por lo que pueden alejarse hasta 10 kilómetros de su nido para ir en su búsqueda, extraerlo, adhiriéndolo con el pelo de sus patas y llevarlo de vuelta a su nido. Para defenderse de sus enemigos sueltan polvillos tóxicos de sus alas que se dispersan por el aire. Son Pokémon muy amistosos con los de su línea evolutiva, por lo que si ven a un Caterpie en peligro debido a algún Pokémon pájaro, no dudará en defenderle.\nLos Butterfree pueden ser encontrados en zonas boscosas o cercanas a lagos. También en zonas donde abunda la miel o el dulce; por lo tanto se les ve muy constantemente en zonas con muchas flores como praderas, los parques y los jardines, territorios los cuales defenderá de la competencia como lo es Cutiefly. En ocasiones al dormir esparce sus polvillos tóxicos, esto se debe a que es incapaz de controlar su aleteo mientras duerme.\nCuando llega la temporada de apareamiento los Butterfree macho van en busca de una hembra, cuando encuentran a una que les guste, comenzarán a realizar un baile a su alrededor, si a la hembra le gusta, le corresponderá el baile, una vez que ambos Pokémon bailan se estrecharán sus lazos e iniciarán un viaje hacia el sur junto con varios cientos de Butterfree a buscar un lugar donde poner sus huevos de Caterpie, se quedará con ellos hasta que eclosionen.",            
+            "statsValuesBylevel": 
+            [
+                {
+                    "level": 1,
+                    "hp": [] ,
+                    "attack": [],
+                    "defense": [],
+                    "speed": [],
+                    "specialAttack": [],
+                    "specialDefense": []
+                },
+                {
+                    "level": 25,
+                    "hp": [],
+                    "attack": [],
+                    "defense": [],
+                    "speed": [],
+                    "specialAttack": [],
+                    "specialDefense": []
+                },
+                {
+                    "level": 50,
+                    "hp": [] ,
+                    "attack": [] ,
+                    "defense": [] ,
+                    "speed": [] ,
+                    "specialAttack": [] ,
+                    "specialDefense": []
+                },
+                {
+                    "level": 100,
+                    "hp": [] ,
+                    "attack": [] ,
+                    "defense": [] ,
+                    "speed": [] ,
+                    "specialAttack": [],
+                    "specialDefense": []
+                }
+            ]
+        },
+        {
+            "id": 13,
+            "name": "Weedle",
+            "frontSprite": "13_front.gif",
+            "backSprite": "13_back.gif",
+            "sound": "13.ogg",
+            "type1": "bug",
+            "type2": "poison",
+            "isEvolved": false,
+            "description": "Este Pokémon insecto tiene la forma de un gusano con un cuerno que segrega veneno en la punta de su aguijón de 5 cm que tiene en la frente, que puede utilizar para defenderse de sus depredadores. Por ello, y por el color de su cuerpo, hace que muchos Pokémon eviten confrontarse con él. La punta de su cola también tiene esta habilidad. Weedle se puede encontrar comúnmente en bosques, prados y pastizales, generalmente ocultos en arbustos, o trepándose a los troncos de los árboles, mientras se alimenta de sus hojas. Tiene un sentido del olfato muy desarrollado debido a su enorme nariz roja en forma de bola, que puede utilizar para encontrar los tipos de hoja que le gustan más, como las hojas de ginkgo. Además de hojas, se le ha visto alimentarse de papel y cartón. La mayor parte de su tiempo la usará para alimentarse pues suele comer el equivalente de su peso en hojas todos los días.\nSu comportamiento es menos tímido que otros Pokémon gusano, y más agresivo, debido a que posee armas con que defenderse, así que no debe de confundirse con los pacíficos Caterpie con los que comparten territorio. Cuando el aguijón no funciona puede usar su disparo demora para entretener al atacante y huir, aunque no se olvidará de sus agresores, por lo que una vez habiendo escapado, es capaz de llegar a su nido y llamar un enjambre de Beedrill que lo auxilie. Generalmente se le ve acompañado con Pokémon de su familia evolutiva o la de Caterpie.",
+            "statsValuesBylevel": 
+            [
+                {
+                    "level": 1,
+                    "hp": [] ,
+                    "attack": [],
+                    "defense": [],
+                    "speed": [],
+                    "specialAttack": [],
+                    "specialDefense": []
+                },
+                {
+                    "level": 25,
+                    "hp": [],
+                    "attack": [],
+                    "defense": [],
+                    "speed": [],
+                    "specialAttack": [],
+                    "specialDefense": []
+                },
+                {
+                    "level": 50,
+                    "hp": [] ,
+                    "attack": [] ,
+                    "defense": [] ,
+                    "speed": [] ,
+                    "specialAttack": [] ,
+                    "specialDefense": []
+                },
+                {
+                    "level": 100,
+                    "hp": [] ,
+                    "attack": [] ,
+                    "defense": [] ,
+                    "speed": [] ,
+                    "specialAttack": [],
+                    "specialDefense": []
+                }
+            ]
+        },
+        {
+            "id": 14,
+            "name": "Kakuna",
+            "frontSprite": "14_front.gif",
+            "backSprite": "14_back.gif",
+            "sound": "14.ogg",
+            "type1": "bug",
+            "type2": "poison",
+            "isEvolved": true,
+            "description": "Kakuna está basado en una pupa de avispa. Es una especie de capullo muy duro, de color amarillo, con dos enormes ojos de color negro con forma triangular, tiene dos brazos en forma de guadaña en el medio de su cuerpo. Kakuna habita en zonas de hierba alta y en las zonas arboladas como en bosques para aprovechar el follaje como escondite, como último recurso, si es encontrado y atacado usará un aguijón o púa venenosa para defenderse, pues a pesar de que su pupa es dura, su cuerpo en el interior es muy frágil. En algunas ocasiones se les ha visto ocultos en zonas cercanas a colmenas de Beedrill para que estos los defiendan de posibles ataques. En la Pocket Monsters Encyclopedia se menciona que cuando un Weedle comienza a comer muchas hojas, lo hace en preparación para evolucionar en un Kakuna.\nCuando se acerca a la evolución, su cuerpo emite calor que lo hace cálido al tacto. Este Pokémon tiene una movilidad muy limitada por lo que prefiere permanecer prácticamente inmóvil mientras está encarnado a los árboles, aunque la actividad interna de su organismo tiene un ritmo frenético, pues se prepara para la evolución.\nEn Isla Metálica habitan varios Kakuna, que en cierta temporada al evolucionar a Beedrill se vuelven más agresivos de lo normal.",           
+            "statsValuesBylevel": 
+            [
+                {
+                    "level": 1,
+                    "hp": [] ,
+                    "attack": [],
+                    "defense": [],
+                    "speed": [],
+                    "specialAttack": [],
+                    "specialDefense": []
+                },
+                {
+                    "level": 25,
+                    "hp": [],
+                    "attack": [],
+                    "defense": [],
+                    "speed": [],
+                    "specialAttack": [],
+                    "specialDefense": []
+                },
+                {
+                    "level": 50,
+                    "hp": [] ,
+                    "attack": [] ,
+                    "defense": [] ,
+                    "speed": [] ,
+                    "specialAttack": [] ,
+                    "specialDefense": []
+                },
+                {
+                    "level": 100,
+                    "hp": [] ,
+                    "attack": [] ,
+                    "defense": [] ,
+                    "speed": [] ,
+                    "specialAttack": [],
+                    "specialDefense": []
+                }
+            ]
+        },
+        {
+            "id": 15,
+            "name": "Beedrill",
+            "frontSprite": "15_front.gif",
+            "backSprite": "15_back.gif",
+            "sound": "15.ogg",
+            "type1": "bug",
+            "type2": "poison",
+            "isEvolved": true,
+            "description": "Beedrill está basado en una avispa japonesa, comparte muchas características con las avispas y abejas, de forma que también es parecido a Combee y Vespiquen. Es bastante territorial, si su colmena es molestada o invadida, comenzarán a atacar en un furioso enjambre. Es muy veloz y poderoso, zumbando y atacando a una velocidad vertiginosa, mientras hace uso de sus grandes aguijones venenosos de sus patas delanteras y de su cola. Cuando crecen y aprenden doble ataque, se vuelven prácticamente intocables. Son de carácter agresivo. Su fuerza e ímpetu de ataque puede ser tal que puede llegar a traspasar puertas de madera.\nCuando Weedle o un Beedrill solitario es atacado, llamará a los Beedrill de su grupo, que lo defenderán a toda costa. Beedrill tiene tres aguijones, dos en las manos y uno en su abdomen, con los cuales puede ocasionar dolorosas picaduras, se sabe que el aguijón de su cola tiene un poderoso veneno con el cual atacará en varias ocasiones a su presa para derrotarla y llevarla a su nido. Rara vez atacarán en solitario, por lo que si huyen, será para traer a toda la colmena, quienes volarán alrededor de la víctima para después atacar. Por su ya mencionado carácter agresivo no es recomendable acercarse a sus territorios o colmenas. Según lo visto en el manga Pocket Monsters Special, Beedrill también hace miel, como si de una abeja se tratara, y, como se muestra en el manga, la miel es muy dulce y les encanta a los Pokémon, sobre todo a Snorlax, el cual una vez se despertó solo para comerse al Bulbasaur de Red/Rojo, que había sido untado de miel de Beedrill por su dueño.\nEn Isla Metálica habitan muchos Kakuna y Beedrill, que en cierta temporada se vuelven más agresivos. Generalmente, habita en los frondosos bosques, usando la copa de los árboles como su hogar.",
+            "statsValuesBylevel": 
+            [
+                {
+                    "level": 1,
+                    "hp": [] ,
+                    "attack": [],
+                    "defense": [],
+                    "speed": [],
+                    "specialAttack": [],
+                    "specialDefense": []
+                },
+                {
+                    "level": 25,
+                    "hp": [],
+                    "attack": [],
+                    "defense": [],
+                    "speed": [],
+                    "specialAttack": [],
+                    "specialDefense": []
+                },
+                {
+                    "level": 50,
+                    "hp": [] ,
+                    "attack": [] ,
+                    "defense": [] ,
+                    "speed": [] ,
+                    "specialAttack": [] ,
+                    "specialDefense": []
+                },
+                {
+                    "level": 100,
+                    "hp": [] ,
+                    "attack": [] ,
+                    "defense": [] ,
+                    "speed": [] ,
+                    "specialAttack": [],
+                    "specialDefense": []
+                }
+            ]
+        },
+        {
+            "id": 16,
+            "name": "Pidgey",
+            "frontSprite": "16_front.gif",
+            "backSprite": "16_back.gif",
+            "sound": "16.ogg",
+            "type1": "normal",
+            "type2": "flying",
+            "isEvolved": false,
+            "description": "Pidgey es un ave Pokémon de color marrón y crema, y con un pequeño pico y patas fuertes. Su aspecto y colores se asemejan al de un ampelis americano, también recuerda al gorrión molinero. Las alas cortas y robustas de Pidgey le ayudan a volar con facilidad entre las ramas de los árboles, agitándolas rápidamente provoca ráfagas de arena e incluso pequeños tornados que les sirven para ahuyentar a sus enemigos y evitar los problemas. Su pico corto y afilado es muy útil para atrapar pequeños Pokémon gusano como Caterpie que a palabras de la Pocket Monsters Encyclopedia, son su presa principal, los Pidgey tienen que ser muy veloces ya que tienen que cazarlos antes de que estos se entierren. Mientras se dan un festín con Weedle y Caterpie, extrañamente ignoran a los Venonat.\nPidgey es uno de los Pokémon más comunes, ya que se encuentra en varios sitios como bosques, selvas y hasta en pueblos y/o ciudades, generalmente vuelan en bandadas que pueden incluir a alguna de sus evoluciones. Son de naturaleza amistosa y bastante valientes. Tienen el sentido de la orientación muy desarrollado por lo que pueden volver a su hogar a pesar de haber volado a zonas que no le resulten familiares. A pesar de que no le gustan los problemas y use ataques de arena para ahuyentar a sus atacantes, si estos no retroceden no dudará en atacar ferozmente a quién lo moleste, especialmente con Pokémon que atacan a sus nidos buscando sus huevos como lo son Ekans y Sneasel. Suelen ocultarse en las copas de los árboles o en la hierba alta mientras buscan su alimento.\nEn las islas Remolino, hay una isla conocida como la Isla de los Pidgey Rechonchos/Gorditos habitada por Pidgey tan rechonchos/gorditos que, debido a su peso, perdieron la capacidad de volar.",
+            "statsValuesBylevel": 
+            [
+                {
+                    "level": 1,
+                    "hp": [] ,
+                    "attack": [],
+                    "defense": [],
+                    "speed": [],
+                    "specialAttack": [],
+                    "specialDefense": []
+                },
+                {
+                    "level": 25,
+                    "hp": [],
+                    "attack": [],
+                    "defense": [],
+                    "speed": [],
+                    "specialAttack": [],
+                    "specialDefense": []
+                },
+                {
+                    "level": 50,
+                    "hp": [] ,
+                    "attack": [] ,
+                    "defense": [] ,
+                    "speed": [] ,
+                    "specialAttack": [] ,
+                    "specialDefense": []
+                },
+                {
+                    "level": 100,
+                    "hp": [] ,
+                    "attack": [] ,
+                    "defense": [] ,
+                    "speed": [] ,
+                    "specialAttack": [],
+                    "specialDefense": []
+                }
+            ]
+        },
+        {
+            "id": 17,
+            "name": "Pidgeotto",
+            "frontSprite": "17_front.gif",
+            "backSprite": "17_back.gif",
+            "sound": "17.ogg",
+            "type1": "normal",
+            "type2": "flying",
+            "isEvolved": true,
+            "description": "Los Pidgeotto son aves de presa y pescadoras, con garras afiladas. Tienen una cola de plumas rojas y amarillas, así como una cresta roja en su cabeza. Es bastante parecido a su evolución final, Pidgeot. La diferencia entre los dos es que las plumas en la cabeza de Pidgeot son más largas que las de Pidgeotto, Pidgeot es mucho más grande y las plumas de su cola son ahora solamente de color rojizo.\nA diferencia de Pidgey, los Pidgeotto son extremadamente territoriales, generalmente en un área grande con sus nidos construidos en el centro. Llenos de vitalidad, constantemente vigilan su territorio, lanzando despiadadamente un tornado a los intrusos o si se encuentran dentro de su espacio vital usará su pico y sus garras contra ellos. Volando desde una altitud de 800 m, se desplazará en círculos mientras caza, y puede fijarse en los movimientos de sus presas en la tierra, sin importar lo alto que vuele, para luego dejarse caer en picada hacia ellas. Pidgeotto entonces ataca con sus afilados talones para capturar a su presa, entre las que se incluyen Exeggcute, Magikarp o Pokémon con forma de gusano como Caterpie, llevándolos de vuelta a su nido, que puede encontrarse hasta a 100 km de distancia.\nEste Pokémon habita generalmente en zonas boscosas, aunque también se encuentra en zonas habitadas por el hombre. Se le puede ver en zonas elevadas o en las ramas de los árboles.",
+            "statsValuesBylevel": 
+            [
+                {
+                    "level": 1,
+                    "hp": [] ,
+                    "attack": [],
+                    "defense": [],
+                    "speed": [],
+                    "specialAttack": [],
+                    "specialDefense": []
+                },
+                {
+                    "level": 25,
+                    "hp": [],
+                    "attack": [],
+                    "defense": [],
+                    "speed": [],
+                    "specialAttack": [],
+                    "specialDefense": []
+                },
+                {
+                    "level": 50,
+                    "hp": [] ,
+                    "attack": [] ,
+                    "defense": [] ,
+                    "speed": [] ,
+                    "specialAttack": [] ,
+                    "specialDefense": []
+                },
+                {
+                    "level": 100,
+                    "hp": [] ,
+                    "attack": [] ,
+                    "defense": [] ,
+                    "speed": [] ,
+                    "specialAttack": [],
+                    "specialDefense": []
+                }
+            ]
+        },
+        {
+            "id": 18,
+            "name": "Pidgeot",
+            "frontSprite": "18_front.gif",
+            "backSprite": "18_back.gif",
+            "sound": "18.ogg",
+            "type1": "normal",
+            "type2": "flying",
+            "isEvolved": true,
+            "description": "Pidgeot se asemeja a sus preevoluciones, aunque siendo de mayor tamaño y con un penacho de plumas sumamente largo y su cola con un tono rojizo uniforme. Posee una excelente vista que usa al momento de cazar.\nEs un Pokémon principalmente piscívoro con Magikarp como su presa favorita, volando a ras del agua para agarrarlos desprevenidos o cuando estos saltan del agua con sus grandes garras. Los músculos de sus alas son lo bastante poderosos para poder hacerlo volar a una velocidad de Mach 2 o crear ventiscas y ráfagas de aire capaces de doblar los árboles más altos. Gracias a estos, es capaz de mantener el vuelo a una altitud de 1 km. Este Pokémon tiene un plumaje muy bonito e hipnótico en la cabeza, lo que provoca que muchos entrenadores queden extasiados con su belleza, ocasionando que sean elegidos por ellos para tenerlos en su equipo. Con su tamaño y despegando sus grandes alas, puede acobardar a sus enemigos.\nA diferencia de sus preevoluciones, se les puede encontrar más en solitario o liderando una bandada de Pidgey y Pidgeotto, siendo más territoriales con otros grandes Pokémon voladores.",
+            "statsValuesBylevel": 
+            [
+                {
+                    "level": 1,
+                    "hp": [] ,
+                    "attack": [],
+                    "defense": [],
+                    "speed": [],
+                    "specialAttack": [],
+                    "specialDefense": []
+                },
+                {
+                    "level": 25,
+                    "hp": [],
+                    "attack": [],
+                    "defense": [],
+                    "speed": [],
+                    "specialAttack": [],
+                    "specialDefense": []
+                },
+                {
+                    "level": 50,
+                    "hp": [] ,
+                    "attack": [] ,
+                    "defense": [] ,
+                    "speed": [] ,
+                    "specialAttack": [] ,
+                    "specialDefense": []
+                },
+                {
+                    "level": 100,
+                    "hp": [] ,
+                    "attack": [] ,
+                    "defense": [] ,
+                    "speed": [] ,
+                    "specialAttack": [],
+                    "specialDefense": []
+                }
+            ]
+        },
+        {
+            "id": 19,
+            "name": "Rattata",
+            "frontSprite": "19_front.gif",
+            "backSprite": "19_back.gif",
+            "sound": "19.ogg",
+            "type1": "normal",
+            "type2": null,
+            "isEvolved": false,
+            "description": "Rattata es un Pokémon con forma de ratón, de una tonalidad púrpura con el vientre de color crema. Tiene dos grandes dientes incisivos y unos largos bigotes en las mejillas. Los machos tienen esos bigotes más largos que las hembras. También tienen dos grandes orejas redondeadas y una cola que se enrolla en su punta.\nSon Pokémon muy pequeños y rápidos. Pueden ser vistos en muchos sitios, desde prados y bosques, hasta grandes ciudades. Viven en grandes grupos, se establecen en lugares donde haya comida y se reproducen continuamente. Por eso es conocido el dicho de que si ves uno, seguro que encuentras 40 ejemplares más en la zona. Hace madrigueras para poder dormir, y es lo bastante cauto moviendo las orejas para detectar ruidos hasta cuando duerme o cuando está robando comida a viajeros tontos. Si no se cuida sus dientes terminan rechinando al dormir, el ruido que esto provoca termina despertándolo. Sus incisivos son grandes y filosos. Estos no dejan de crecer, por lo que buscan roer objetos duros como pilares para limarlos, causando destrozos. Sin embargo, esto es de suma importancia para ellos, ya que si sus dientes crecen demasiado, les impedirían comer y finalmente morirían de inanición. Algunos investigadores han determinado que la velocidad de crecimiento de estos es igual a la de los Bidoof. Según la Pocket Monsters Encyclopedia, suele darse un festín con nueces y bellotas, así como con alimentos procesados como la leche y el queso. A su vez, los Rattata son vistos como la presa favorita de muchos Pokémon, entre ellos se encuentran Meowth, Persian, Ekans y Furret.",
+            "statsValuesBylevel": 
+            [
+                {
+                    "level": 1,
+                    "hp": [] ,
+                    "attack": [],
+                    "defense": [],
+                    "speed": [],
+                    "specialAttack": [],
+                    "specialDefense": []
+                },
+                {
+                    "level": 25,
+                    "hp": [],
+                    "attack": [],
+                    "defense": [],
+                    "speed": [],
+                    "specialAttack": [],
+                    "specialDefense": []
+                },
+                {
+                    "level": 50,
+                    "hp": [] ,
+                    "attack": [] ,
+                    "defense": [] ,
+                    "speed": [] ,
+                    "specialAttack": [] ,
+                    "specialDefense": []
+                },
+                {
+                    "level": 100,
+                    "hp": [] ,
+                    "attack": [] ,
+                    "defense": [] ,
+                    "speed": [] ,
+                    "specialAttack": [],
+                    "specialDefense": []
+                }
+            ]
+        },
+        {
+            "id": 20,
+            "name": "Raticate",
+            "frontSprite": "20_front.gif",
+            "backSprite": "20_back.gif",
+            "sound": "20.ogg",
+            "type1": "normal",
+            "type2": null,
+            "isEvolved": true,
+            "description": "Raticate se asemeja a una rata noruega o rata marrón. Tiene la piel marrón claro y una larga cola. Sus colmillos son grandes, duros y firmes, y le permiten roer cualquier cosa. Nunca le dejan de crecer, por lo tanto, para reducirlos y mantenerlos afilados, roe rocas, troncos y paredes de hormigón de algunos edificios o casas.\nRaticate se caracteriza por sus enormes bigotes que le ayudan a guardar el equilibrio. Si estos fuesen cortados, tendría que caminar más despacio, de lo contrario, terminaría perdiendo el equilibrio. Sus patas traseras cuentan con tres dedos palmeados cada una, lo que le permiten utilizarlos de aletas para nadar por los ríos en busca de alimento o para escapar de sus depredadores. Es un Pokémon demasiado feroz pues, aunque le tenga confianza a alguien, si este intenta tocarlo puede llevarse un mordisco. En la Pocket Monsters Encyclopedia se menciona que su alimento principal son las nueces, aunque también suelen ser vistos nadando en busca de peces. Son enemigos mortales de los Arbok, si se encuentran lucharán con tal saña como si de una serpiente y una mangosta se tratase. Cuando duerme, se puede escuchar sus rechinidos de dientes para limarlos e incluso se le ha visto roer troncos mientras se encuentra dormido.\nRaticate es un Pokémon de pradera, aunque también es muy frecuente verle en ciudades o en bosques. Es muy común verlo en compañía de Rattata u otros Raticate.",
+            "statsValuesBylevel": 
+            [
+                {
+                    "level": 1,
+                    "hp": [] ,
+                    "attack": [],
+                    "defense": [],
+                    "speed": [],
+                    "specialAttack": [],
+                    "specialDefense": []
+                },
+                {
+                    "level": 25,
+                    "hp": [],
+                    "attack": [],
+                    "defense": [],
+                    "speed": [],
+                    "specialAttack": [],
+                    "specialDefense": []
+                },
+                {
+                    "level": 50,
+                    "hp": [] ,
+                    "attack": [] ,
+                    "defense": [] ,
+                    "speed": [] ,
+                    "specialAttack": [] ,
+                    "specialDefense": []
+                },
+                {
+                    "level": 100,
+                    "hp": [] ,
+                    "attack": [] ,
+                    "defense": [] ,
+                    "speed": [] ,
+                    "specialAttack": [],
+                    "specialDefense": []
+                }
+            ]
+        },
+        {
+            "id": 21,
+            "name": "Spearow",
+            "frontSprite": "21_front.gif",
+            "backSprite": "21_back.gif",
+            "sound": "21.ogg",
+            "type1": "normal",
+            "type2": "flying",
+            "isEvolved": false,
+            "description": "Spearow tiene una forma parecida a la de un gorrión castaño. Tiene muchas tonalidades en su plumaje, siendo marrón en la cabeza y cola, negro en el lomo, crema en el vientre y rojizo en las alas, con las puntas de estas un poco más claras. Tiene una mirada fiera, así como un gancho en su pico característico de algunas aves de presa.\nGusta de alimentarse de bichos en las zonas de hierba alta. Sus alas son muy pequeñas, por lo que le impiden volar muy alto o a grandes distancias. Sin embargo, es lo suficientemente veloz como para protegerse de algún ataque. A diferencia de Pidgey, se trata de un Pokémon muy territorial y temperamental, que no dudará en abalanzarse a su rival con aleteos y chillidos, aunque este sea más grande. Si se ve superado, puede piar con tanta fuerza que se le puede oír a 1 km de distancia. Si el chillido hace eco, es un indicador de que otros Spearow le han contestado el aviso de peligro. A pesar de ser pequeño, puede ser un rival de temer con su movimiento espejo.\nEn algunos lugares como granjas, crían a Spearow para que mantenga control sobre las plagas de insectos.",
+            "statsValuesBylevel": 
+            [
+                {
+                    "level": 1,
+                    "hp": [] ,
+                    "attack": [],
+                    "defense": [],
+                    "speed": [],
+                    "specialAttack": [],
+                    "specialDefense": []
+                },
+                {
+                    "level": 25,
+                    "hp": [],
+                    "attack": [],
+                    "defense": [],
+                    "speed": [],
+                    "specialAttack": [],
+                    "specialDefense": []
+                },
+                {
+                    "level": 50,
+                    "hp": [] ,
+                    "attack": [] ,
+                    "defense": [] ,
+                    "speed": [] ,
+                    "specialAttack": [] ,
+                    "specialDefense": []
+                },
+                {
+                    "level": 100,
+                    "hp": [] ,
+                    "attack": [] ,
+                    "defense": [] ,
+                    "speed": [] ,
+                    "specialAttack": [],
+                    "specialDefense": []
+                }
+            ]
+        },
+        {
+            "id": 22,
+            "name": "Fearow",
+            "frontSprite": "22_front.gif",
+            "backSprite": "22_back.gif",
+            "sound": "22.ogg",
+            "type1": "normal",
+            "type2": "flying",
+            "isEvolved": true,
+            "description": "Este Pokémon, con forma de una gran ave, tiene una tonalidad marrón con plumas más claras en la punta de sus alas y en su espalda. Tiene un cuello y picos largos y delgados. Sobre su cabeza, tiene una cresta con cinco puntas, además de una mirada feroz. Usa sus enormes y magníficas alas para alcanzar gran altura y seguir volando por un día entero, sin tener que aterrizar a descansar. Su pescuezo y pico largos le permiten cazar en tierra y en el agua, usando este último con gran habilidad para capturar a sus presas, las cuales pueden ser insectos que se ocultan bajo tierra o peces en mantos acuíferos, también se menciona en la Pocket Monsters Encyclopedia que es incluso capaz de tragarse a un Rattata entero.\nTras merodear dando vueltas en círculos buscando una presa a la que acechar, cuando la encuentra, cae en picado hacia ella para atacarla con su pico y atraparla de un solo golpe. Es peligroso pasear con comida en su territorio, pues no dudará en abalanzarse para robarla. Usa su pico como principal medio para atacar, teniendo un alcance sorprendente y una fuerza para sostener grandes cargas. Sin embargo, si siente el menor atisbo de peligro, se alejará volando rápidamente. Se dice que este Pokémon ha vivido desde tiempos remotos, y en algunos murales de épocas arcaicas se han hallado pinturas de un Pokémon que guarda un gran parecido con él.\nSu hábitat es el campo, donde puede observar con claridad el suelo. También puede ser visto en lugares poblados por el hombre, y en Alola es común verlo volando sobre el mar.",
+            "statsValuesBylevel": 
+            [
+                {
+                    "level": 1,
+                    "hp": [] ,
+                    "attack": [],
+                    "defense": [],
+                    "speed": [],
+                    "specialAttack": [],
+                    "specialDefense": []
+                },
+                {
+                    "level": 25,
+                    "hp": [],
+                    "attack": [],
+                    "defense": [],
+                    "speed": [],
+                    "specialAttack": [],
+                    "specialDefense": []
+                },
+                {
+                    "level": 50,
+                    "hp": [] ,
+                    "attack": [] ,
+                    "defense": [] ,
+                    "speed": [] ,
+                    "specialAttack": [] ,
+                    "specialDefense": []
+                },
+                {
+                    "level": 100,
+                    "hp": [] ,
+                    "attack": [] ,
+                    "defense": [] ,
+                    "speed": [] ,
+                    "specialAttack": [],
+                    "specialDefense": []
+                }
+            ]
+        },
+        {
+            "id": 23,
+            "name": "Ekans",
+            "frontSprite": "23_front.gif",
+            "backSprite": "23_back.gif",
+            "sound": "23.ogg",
+            "type1": "poison",
+            "type2": null,
+            "isEvolved": false,
+            "description": "Este Pokémon está basado en una serpiente, por su apariencia se asemeja a una serpiente de cascabel, sin embargo Ekans no es venenoso nada más nacer. De tonalidad púrpura tiene un cascabel en la cola, un anillo en el cuello y un vientre de color amarillo.\nEkans es muy silencioso y sigiloso, suele cazar y esconderse en la hierba alta. Aunque también es un buen trepador de árboles, los cuales también usa para descansar. Su cuerpo crece indefinidamente a lo largo de toda su vida, desprendiéndose de su vieja piel, lo cual es un indicativo de su longevidad. Cuando nacen no tienen veneno por lo que su mordisco aunque es doloroso no representa ningún peligro. Su comida favorita son los huevos de Pidgey y Spearow, los considera un manjar. Como se los traga enteros a veces se atraganta y pierde el conocimiento. Sin embargo, no dudará en acechar y atacar por la espalda a algún Pokémon roedor o pájaro. Si se tragan a un Rattata pueden estar sin comer durante todo un mes. Para engullir a su presa puede separar su mandíbula para hacer que su boca se expanda, pudiendo tragar presas tan grandes como él, aunque eso le dificultará el movimiento.\nUsa su lengua para detectar el peligro y si siente alguna amenaza, adopta una posición defensiva, enroscándose mientras yergue la cabeza en cualquier dirección, lanzando feroces miradas. Para descansar, se enrosca en las ramas de los árboles por las noches. Se cree que esta posición le permite volver su cabeza con rapidez hacia su atacante y así poder intimidarlo. A este Pokémon es muy común encontrarlo en las praderas y zonas similares. Durante el invierno hibernan en el suelo cálido de los bosques, mientras que en verano es muy común verlos en los pastizales.",
+            "statsValuesBylevel": 
+            [
+                {
+                    "level": 1,
+                    "hp": [] ,
+                    "attack": [],
+                    "defense": [],
+                    "speed": [],
+                    "specialAttack": [],
+                    "specialDefense": []
+                },
+                {
+                    "level": 25,
+                    "hp": [],
+                    "attack": [],
+                    "defense": [],
+                    "speed": [],
+                    "specialAttack": [],
+                    "specialDefense": []
+                },
+                {
+                    "level": 50,
+                    "hp": [] ,
+                    "attack": [] ,
+                    "defense": [] ,
+                    "speed": [] ,
+                    "specialAttack": [] ,
+                    "specialDefense": []
+                },
+                {
+                    "level": 100,
+                    "hp": [] ,
+                    "attack": [] ,
+                    "defense": [] ,
+                    "speed": [] ,
+                    "specialAttack": [],
+                    "specialDefense": []
+                }
+            ]
+        },
+        {
+            "id": 24,
+            "name": "Arbok",
+            "frontSprite": "24_front.gif",
+            "backSprite": "24_back.gif",
+            "sound": "24.ogg",
+            "type1": "poison",
+            "type2": null,
+            "isEvolved": true,
+            "description": "Arbok parece estar inspirado en la cobra de anteojos. De color púrpura en todo su cuerpo, posee una capucha que, a diferencia de una cobra real, no se puede retraer. Su cuerpo parece segmentado con varias líneas de una tonalidad más oscura. Posee colmillos venenosos en su boca y una fina lengua bífida.\nEl diseño de los dibujos de la panza de Arbok puede variar de un área a otra, según algunos estudios se han encontrado una veintena de variaciones, de las cuales seis han sido confirmadas, con las cuales haciendo uso hábilmente de deslumbrar puede paralizar a su presa, para después enroscarla con su cuerpo y estrujarla con un asfixiante abrazo, si esto no fuese suficiente también puede optar por envenenarla. Es de naturaleza vengativa y obstinada, si su presa escapase antes de ser atrapada, no cejará la persecución y le seguirá sin importar a donde vaya. La fuerza del estrujón de Arbok es tan potente que es capaz de oprimir un barril de acero. Los patrones de su cuerpo en forma de 'rostro' son suficientes para ahuyentar a los enemigos más débiles, para los más fuertes se hinchará su pecho y emitirá sonidos echando aire por la boca para intimidarlos. Se enrosca para poder dormir, dejando su vientre descubierto, esto lo hace para evitar que se le acerquen mientras descansa. Si alguien se encuentra con un Arbok en el camino, será mejor desviar la mirada para evitar ser paralizado por este. Son enemigos acérrimos de los Raticate, y si se encuentran lucharán con tal saña como si de una serpiente y una mangosta se tratase.\nSegún lo visto en el manga Pocket Monsters Special, algunos Arbok tienen la habilidad de regenerar partes de su cuerpo. Así mismo, cuando estos tienen un excelente entrenamiento, también pueden cambiar el dibujo en su pecho. Según el dibujo que adopte, Arbok puede incrementar su velocidad, su ataque y hasta puede volverse inmune al envenenamiento.",
+            "statsValuesBylevel": 
+            [
+                {
+                    "level": 1,
+                    "hp": [] ,
+                    "attack": [],
+                    "defense": [],
+                    "speed": [],
+                    "specialAttack": [],
+                    "specialDefense": []
+                },
+                {
+                    "level": 25,
+                    "hp": [],
+                    "attack": [],
+                    "defense": [],
+                    "speed": [],
+                    "specialAttack": [],
+                    "specialDefense": []
+                },
+                {
+                    "level": 50,
+                    "hp": [] ,
+                    "attack": [] ,
+                    "defense": [] ,
+                    "speed": [] ,
+                    "specialAttack": [] ,
+                    "specialDefense": []
+                },
+                {
+                    "level": 100,
+                    "hp": [] ,
+                    "attack": [] ,
+                    "defense": [] ,
+                    "speed": [] ,
+                    "specialAttack": [],
+                    "specialDefense": []
+                }
+            ]
+        },
+        {
+            "id": 25,
+            "name": "Pikachu",
+            "frontSprite": "25_front.gif",
+            "backSprite": "25_back.gif",
+            "sound": "25.ogg",
+            "type1": "electric",
+            "type2": null,
+            "isEvolved": false,
+            "description": "Pikachu es un pequeño Pokémon cuya morfología se encuentra basada en un roedor. Aunque su nombre y su categoría hagan alusión a un ratón, según su diseñadora, sus mejillas están basadas en las de una ardilla. Su cuerpo es de color amarillo con dos rayas marrones en su espalda y en la base de la cola. La punta de sus orejas de color negro, y presenta un gran círculo rojo en cada una de sus mejillas. Tiene una cola con forma de rayo si es macho y en forma de corazón si es hembra.\nPikachu almacena una gran cantidad de electricidad en las bolsas que tiene en sus mejillas. Estas parecen cargarse eléctricamente durante la noche mientras duerme. En ocasiones libera electricidad estando medio dormido, como si soñara que lanza descargas eléctricas. A veces suelta unas pequeñas descargas cuando se acaba de despertar. Las mejillas de Pikachu también pueden ser recargadas mediante una descarga eléctrica dada por otro Pikachu. Es un Pokémon muy curioso, por lo que se puede ver cerca de asentamientos humanos.\nEl hábitat principal de Pikachu es el bosque, alejado de las poblaciones humanas, donde puede encontrar bayas las cuales tuesta con su electricidad, por lo que si se encuentra una baya chamuscada tirada en el suelo, es muy probable que haya sido obra de Pikachu. Le gusta vivir en grupos, donde siempre mantienen la cola en alto para vigilar. En esta pose puede ser fácilmente alcanzado por algún rayo y si se siente amenazado o es molestado liberará toda la electricidad almacenada. La energía liberada de varios individuos juntos es capaz de generar tormentas eléctricas.",
+            "statsValuesBylevel": 
+            [
+                {
+                    "level": 1,
+                    "hp": [] ,
+                    "attack": [],
+                    "defense": [],
+                    "speed": [],
+                    "specialAttack": [],
+                    "specialDefense": []
+                },
+                {
+                    "level": 25,
+                    "hp": [],
+                    "attack": [],
+                    "defense": [],
+                    "speed": [],
+                    "specialAttack": [],
+                    "specialDefense": []
+                },
+                {
+                    "level": 50,
+                    "hp": [] ,
+                    "attack": [] ,
+                    "defense": [] ,
+                    "speed": [] ,
+                    "specialAttack": [] ,
+                    "specialDefense": []
+                },
+                {
+                    "level": 100,
+                    "hp": [] ,
+                    "attack": [] ,
+                    "defense": [] ,
+                    "speed": [] ,
+                    "specialAttack": [],
+                    "specialDefense": []
+                }
+            ]
+        },
+        {
+            "id": 26,
+            "name": "Raichu",
+            "frontSprite": "26_front.gif",
+            "backSprite": "26_back.gif",
+            "sound": "26.ogg",
+            "type1": "electric",
+            "type2": null,
+            "isEvolved": true,
+            "description": "Este Pokémon es un gran roedor bípedo. Tiene un pelaje anaranjado, una cola oscura y gruesa como un cable de tendido eléctrico que termina en forma de rayo y totalmente plana, que además puede soportar grandes cargas. Tiene un vientre de tono claro y unos mofletes amarillos, que producen la energía eléctrica que se conduce a la cola de Raichu para ser liberada en forma de potentes ataques tipo eléctrico. Sus orejas son grandes y están parcialmente enrolladas. Almacena la carga acumulada en sus mejillas, exactamente igual a su preevolución Pikachu.\nLa habilidad de Raichu de contener corrientes eléctricas es impresionante; es común que sus ataques eléctricos tengan 10.000 voltios de energía, pero se han registrado casos de hasta 100.000. Incluso cuando no está luchando, el cuerpo de Raichu expele una débil carga eléctrica que le hace luminoso en la oscuridad, y le puede dar una buena descarga a cualquiera que ose asustarle o tocarle sin previo aviso.\nLa actitud de Raichu depende parcialmente de la cantidad de electricidad que tenga en el cuerpo. Cuanta más carga eléctrica tenga, más enérgicamente actúa y si se encuentra totalmente cargado se le pondrán las orejas de punta. Sus músculos se estimulan con la electricidad. Un fenómeno destacable en sus orejas es que se levantan cuando está cargado de electricidad. Con altas cantidades de electricidad, Raichu se vuelve agresivo. Para prevenir esto, Raichu se calma descargando el exceso de electricidad enterrando su cola en el suelo a modo de toma de tierra, esto también le ayuda para protegerse de los calambrazos. Se lo ha visto hacerlo también cuando duermen, por lo que hay que tener cuidado de no acabar electrocutado al acercarse. Constantemente electrocutan objetos, personas y Pokémon hasta que su nivel de electricidad haya vuelto a la normalidad.",
+            "statsValuesBylevel": 
+            [
+                {
+                    "level": 1,
+                    "hp": [] ,
+                    "attack": [],
+                    "defense": [],
+                    "speed": [],
+                    "specialAttack": [],
+                    "specialDefense": []
+                },
+                {
+                    "level": 25,
+                    "hp": [],
+                    "attack": [],
+                    "defense": [],
+                    "speed": [],
+                    "specialAttack": [],
+                    "specialDefense": []
+                },
+                {
+                    "level": 50,
+                    "hp": [] ,
+                    "attack": [] ,
+                    "defense": [] ,
+                    "speed": [] ,
+                    "specialAttack": [] ,
+                    "specialDefense": []
+                },
+                {
+                    "level": 100,
+                    "hp": [] ,
+                    "attack": [] ,
+                    "defense": [] ,
+                    "speed": [] ,
+                    "specialAttack": [],
+                    "specialDefense": []
+                }
+            ]
         }
     ]
 }
