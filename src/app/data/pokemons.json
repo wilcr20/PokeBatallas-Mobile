@@ -302,6 +302,156 @@
                     "specialDefense": [238,268]
                 }
             ]
+        },
+        {
+            "id": 7,
+            "name": "Squirtle",
+            "frontSprite": "7_front.gif",
+            "backSprite": "7_back.gif",
+            "sound": "7.ogg",
+            "type1": "water",
+            "type2": null,
+            "isEvolved": false,
+            "description": "Squirtle tiene forma de una tortuga semiacuática de una tonalidad azulada, su caparazón es color café, las placas periféricas de color blanco y finalmente su plastrón de una tonalidad crema, posee una cola con la punta enrollada, además de tres dedos en cada una de sus extremidades, una boca con una punta en forma de pico característico de las tortugas y unos grandes ojos de tonalidad rojiza.\nAl nacer su espalda se va hinchando hasta formarse un caparazón, al principio es blando y elástico, si lo golpeas este rebotará, pero conforme pasa el tiempo se irá endureciendo para resistir los ataques de cualquier amenaza, ocultándose dentro de él cuando siente peligro, al estar escondido puede lanzar una enorme presión de agua desde su interior cuando tiene la oportunidad. Igualmente retrae su cabeza y extremidades mientras duerme para sentirse seguro, a veces se puede llegar a ver como se mece su caparazón entre sueños. Su caparazón no solo le sirve de protección únicamente, con su forma redondeada y las hendiduras que posee, le sirven para reducir su resistencia en el agua y así poder nadar a enormes velocidades. Además de lanzar con gran precisión chorros de agua a presión por la boca, también puede lanzar espuma y usar su duro caparazón para atacar. Siempre se lo ve cerca del agua, ya sea dulce o salada.",            
+            "statsValuesBylevel": 
+            [
+                {
+                    "level": 1,
+                    "hp": [12,12] ,
+                    "attack": [6,6],
+                    "defense": [6,7],
+                    "speed": [6,6],
+                    "specialAttack": [6,6],
+                    "specialDefense": [6,7]
+                },
+                {
+                    "level": 25,
+                    "hp": [72,80] ,
+                    "attack": [44,52],
+                    "defense": [53,60],
+                    "speed": [42,49],
+                    "specialAttack": [45,53],
+                    "specialDefense": [52,60]
+                },
+                {
+                    "level": 50,
+                    "hp": [135,150] ,
+                    "attack": [84,99],
+                    "defense": [101,116],
+                    "speed": [79,94],
+                    "specialAttack": [86,101],
+                    "specialDefense": [100,115]
+                },
+                {
+                    "level": 100,
+                    "hp": [261,291] ,
+                    "attack": [164,194],
+                    "defense": [198,228],
+                    "speed": [154,184],
+                    "specialAttack": [168,198],
+                    "specialDefense": [196,226]
+                }
+            ]
+        },
+        {
+            "id": 8,
+            "name": "Wartortle",
+            "frontSprite": "8_front.gif",
+            "backSprite": "8_back.gif",
+            "sound": "8.ogg",
+            "type1": "water",
+            "type2": null,
+            "isEvolved": true,
+            "description": "Wartortle es una tortuga semiacuática de una tonalidad azulada más oscura que Squirtle, su cola ha crecido bastante y ha cambiado de color hacia un azul muy claro finalizando en varias puntas enrolladas, de su cabeza ahora sobresalen dos grandes orejas con forma de alas y de la misma tonalidad de su cola, su caparazón tiene un tono café más opaco que su preevolución aunque sus placas periféricas y su plastrón siguen manteniendo los tonos blancos y crema respectivamente. Ahora sobresalen garras en los dedos de sus manos, unos colmillos de su boca, aunque sigue conservando el pico de tortuga, el iris de sus ojos pasa a ser café y su mirada se vuelve más fiera.\nWartortle es reconocido como el símbolo de la longevidad, tiene una larga cola peluda, es un pelo grueso que se va oscureciendo conforme crece y simboliza lo longevo que es, es por ello que es muy popular entre la gente mayor. Se dice que puede llegar hasta a vivir 10 mil años, los Wartortle más ancianos tienen algas en su caparazón. Se oculta en el agua para cazar a sus presas, como nada muy rápidamente, necesita ayuda de sus enormes y peludas orejas, además de sus fuertes patas y larga cola para poder nivelarse y así mantener el equilibrio.\nCuando golpean su cabeza se oculta dentro de su caparazón, aunque su cola queda expuesta, la puede usar para defenderse de sus agresores, los arañazos de su caparazón sirven de prueba de los combates que ha tenido y lo buen guerrero que es. Al dormir retrae todas sus extremidades a excepción de su cola, se cree que esto lo hace para captar lo que ocurre a su alrededor mientras descansa. Algunos bomberos forman equipos de Wartortle para apagar incendios, ya que tienen la potencia de Blastoise y un tamaño similar al de Squirtle. Al igual que Squirtle, es conocido por lanzar chorros de agua a presión y vivir cerca de mantos acuíferos sin importar si son de agua dulce o salada.",
+            "statsValuesBylevel": 
+            [
+                {
+                    "level": 1,
+                    "hp": [12,13] ,
+                    "attack": [6,7],
+                    "defense": [7,7],
+                    "speed": [6,7],
+                    "specialAttack": [6,7],
+                    "specialDefense": [7,7]
+                },
+                {
+                    "level": 25,
+                    "hp": [80,87],
+                    "attack": [52,59],
+                    "defense": [60,68],
+                    "speed": [49,57],
+                    "specialAttack": [53,60],
+                    "specialDefense": [60,68]
+                },
+                {
+                    "level": 50,
+                    "hp": [150,165] ,
+                    "attack": [99,114],
+                    "defense": [116,131],
+                    "speed": [94,109],
+                    "specialAttack": [101,116],
+                    "specialDefense": [116,131]
+                },
+                {
+                    "level": 100,
+                    "hp": [291,321] ,
+                    "attack": [194,224],
+                    "defense": [228,258],
+                    "speed": [184,214],
+                    "specialAttack": [198,228],
+                    "specialDefense": [228,258]
+                }
+            ]
+        },
+        {
+            "id": 9,
+            "name": "Blastoise",
+            "frontSprite": "9_front.gif",
+            "backSprite": "9_back.gif",
+            "sound": "9.ogg",
+            "type1": "water",
+            "type2": null,
+            "isEvolved": true,
+            "description": "Blastoise está basado en una tortuga con dos cañones. Es una enorme tortuga bípeda, que puede extender unos poderosos cañones situados en su espalda para disparar potentes chorros de agua, con la fuerza suficiente para quebrar muros de hormigón o hacer agujeros en planchas de acero. Para evitar el retroceso, planta firmemente sus patas traseras en el suelo antes de usar sus cañones, además de subir deliberadamente de peso. Incluso se le ha visto usar la presión del agua de sus cañones para poder volar. Su tonalidad es todavía un poco más oscura que la de Wartortle. Posee un grueso cráneo y mandíbula que le sirven para usar movimientos como mordisco o cabezazo.\nPueden disparar balas de agua con suficiente precisión para golpear latas a 50 metros de distancia. Pese a ello, son incapaces de apuntar a objetivos demasiado cercanos. Su fuerza y potencia es mayor que la de una manguera de bomberos, razón por la que muchos equipos de bomberos poseen Blastoise como miembros, pues con las enormes cantidades de agua que pueden disparar cualquier incendio puede ser extinguido fácilmente. Si la potencia de sus cañones no fueran suficientes para evitar algún peligro, todavía puede ocultarse en su caparazón para esconderse o aplastar a su oponente con su enorme peso.\nSe los puede ver metidos dentro de su duro caparazón mientras toman el sol o se encuentran durmiendo, esto lo hacen para sentirse más seguros. Si se lo ve dormido con el vientre expuesto, puede que sea una señal de que se siente a salvo de cualquier amenaza",           
+            "statsValuesBylevel": 
+            [
+                {
+                    "level": 1,
+                    "hp": [13,13] ,
+                    "attack": [7,7],
+                    "defense": [7,7],
+                    "speed": [7,7],
+                    "specialAttack": [7,7],
+                    "specialDefense": [7,8]
+                },
+                {
+                    "level": 25,
+                    "hp": [90,97],
+                    "attack": [62,69],
+                    "defense": [70,78],
+                    "speed": [59,67],
+                    "specialAttack": [63,70],
+                    "specialDefense": [73,80]
+                },
+                {
+                    "level": 50,
+                    "hp": [170,185] ,
+                    "attack": [119,134],
+                    "defense": [136,151],
+                    "speed": [114,129],
+                    "specialAttack": [121,136],
+                    "specialDefense": [141,156]
+                },
+                {
+                    "level": 100,
+                    "hp": [331,361] ,
+                    "attack": [234,264],
+                    "defense": [268,298],
+                    "speed": [224,254],
+                    "specialAttack": [238,268],
+                    "specialDefense": [278,308]
+                }
+            ]
         }
     ]
 }
