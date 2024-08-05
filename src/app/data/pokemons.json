@@ -1,0 +1,107 @@
+
+
+{
+    "data":
+    [
+        {
+            "id": 1,
+            "name": "Bulbasaur",
+            "frontSprite": "1_front.gif",
+            "backSprite": "1_back.gif",
+            "sound": "1.ogg",
+            "type1": "grass",
+            "type2": "poison",
+            "isEvolved": false,
+            "description": "Bulbasaur es un Pokémon cuadrúpedo de color verde, posee manchas de una tonalidad más oscura del mismo color con distintas formas geométricas. Su cabeza representa cerca de un tercio de su cuerpo. En su frente se ubican tres manchas que pueden cambiar de posición, forma o lugar dependiendo del ejemplar. Tiene como orejas muñones pequeños y puntiagudos. Sus ojos son grandes y de color rojo. Sus patas son cortas y posee tres garras en cada una. Este Pokémon tiene plantado un bulbo en el lomo desde que nace, esta semilla crece y se desarrolla a lo largo del ciclo de vida de Bulbasaur a medida que suceden sus evoluciones. El bulbo absorbe y almacena la energía solar que Bulbasaur necesita para hacer florecer el bulbo de su lomo y evolucionar en Ivysaur. Dicen que cuanta más luz consuma la semilla, más rápido crecerá y brotará, por lo que es muy común ver a este Pokémon tumbado echándose una siesta en lugares donde los rayos del sol lleguen a plenitud. Por otro lado, gracias a los nutrientes que el bulbo almacena, puede pasar varios días sin comer. Su cuerpo según a palabras de Ken Sugimori y Junichi Masuda en una entrevista, está basado en un anfibio (sapo o rana), al igual que toda su línea evolutiva. Este contenido proviene de wikidex.net, y debe darse atribución a sus autores, tal como especifica la licencia. Se prohíbe su uso a PlagioDex (el wiki de FANDOOM), por copiar reiteradamente sin dar atribución.\nEl bulbo de Bulbasaur le ayuda a defenderse de los enemigos, y desde él puede disparar ataques tales como rayo solar y drenadoras entre otros movimientos\n.No es muy raro encontrarlo en jardines y zonas cercanas a fuentes de agua. Se los puede atraer con el aroma de las flores. Según el anime, una vez al año, cuando estos Pokémon están listos para evolucionar suelen reunirse en grandes cantidades en un Jardín Misterioso mientras hacen un ritual a la luz de la luna junto a un gran Venusaur.",
+            "statsValuesBylevel": 
+            [
+                {
+                    "level": 1,
+                    "hp": [12,12] ,
+                    "attack": [6,6],
+                    "defense": [6,6],
+                    "speed": [6,6],
+                    "specialAttack": [6,7],
+                    "specialDefense": [6,7]
+                },
+                {
+                    "level": 25,
+                    "hp": [73,80] ,
+                    "attack": [45,52],
+                    "defense": [45,52],
+                    "speed": [43,50],
+                    "specialAttack": [53,60],
+                    "specialDefense": [53,60]
+                },
+                {
+                    "level": 50,
+                    "hp": [136,151] ,
+                    "attack": [85,100],
+                    "defense": [85,100],
+                    "speed": [81,96],
+                    "specialAttack": [101,116],
+                    "specialDefense": [101,116]
+                },
+                {
+                    "level": 100,
+                    "hp": [263,293] ,
+                    "attack": [166,196],
+                    "defense": [166,196],
+                    "speed": [158,188],
+                    "specialAttack": [198,228],
+                    "specialDefense": [198,228]
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "Ivysaur",
+            "frontSprite": "2_front.gif",
+            "backSprite": "2_back.gif",
+            "sound": "2.ogg",
+            "type1": "grass",
+            "type2": "poison",
+            "isEvolved": true,
+            "description": "Ivysaur posee una tonalidad azulada más viva que la de su preevolución, Bulbasaur. Además, sus ojos se mantienen rojos y sus pupilas negras. El bulbo que había en la espalda de Bulbasaur ha brotado mostrando un botón de flor, la cual aún permanece cerrada. Esta flor es usada por Ivysaur de la misma forma que Bulbasaur empleaba su bulbo para la mayoría de sus ataques. La flor crece con la exposición directa al sol, forzando a Ivysaur a caminar a todas horas para conseguir que la luz sea absorbida plenamente, debido a esto la flor se va desarrollando, para soportar su peso y su tallo, sus patas se hacen más robustas y fuertes que las de Bulbasaur, sin embargo, ahora se le dificulta pararse sobre sus patas traseras.\nSi pasa un tiempo bajo la luz solar, es una señal de que muy pronto su brote será una gran flor. Mientras toma los rayos del sol, permanece totalmente inmóvil realizando la fotosíntesis. Los eruditos que lo investigan aún no logran ponerse de acuerdo si durante este proceso se encuentra en un estado de vigilia o de sueño. De la flor emana un aroma suave y agradable, que con frecuencia atrae a personas y a otros Pokémon, cuando se vuelve un dulce aroma es un indicador de que su flor esta a punto de florecer. Su cuerpo según a palabras de Ken Sugimori y Junichi Masuda en una entrevista, esta basado en un anfibio (sapo o rana), al igual que toda su línea evolutiva.\nEl hábitat natural de esta especie es la pradera, aunque también viven en llanuras con fuentes de agua dulce expuestas al sol y algunos en bosques soleados para tener acceso constante a la luz donde por lo general se les ve junto a otros miembros de su especie.",
+            "statsValuesBylevel": 
+            [
+                {
+                    "level": 1,
+                    "hp": [12,13] ,
+                    "attack": [6,7],
+                    "defense": [6,7],
+                    "speed": [6,7],
+                    "specialAttack": [7,7],
+                    "specialDefense": [7,7]
+                },
+                {
+                    "level": 25,
+                    "hp": [80,80] ,
+                    "attack": [51,59],
+                    "defense": [52,59],
+                    "speed": [50,58],
+                    "specialAttack": [60,68],
+                    "specialDefense": [60,68]
+                },
+                {
+                    "level": 50,
+                    "hp": [151,166] ,
+                    "attack": [98,113],
+                    "defense": [99,114],
+                    "speed": [96,111],
+                    "specialAttack": [116,131],
+                    "specialDefense": [116,131]
+                },
+                {
+                    "level": 100,
+                    "hp": [293,323] ,
+                    "attack": [192,222],
+                    "defense": [194,224],
+                    "speed": [188,218],
+                    "specialAttack": [228,258],
+                    "specialDefense": [228,258]
+                }
+            ]
+        }
+    ]
+}
