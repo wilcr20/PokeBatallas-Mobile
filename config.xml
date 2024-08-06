@@ -2,7 +2,7 @@
 <widget id="pokebatallas.com" version="0.0.1" xmlns="http://www.w3.org/ns/widgets" xmlns:cdv="http://cordova.apache.org/ns/1.0">
     <name>PokeBatallas</name>
     <description>App para simular batallas Pokemon de la primera generación de la manera más realista posible.</description>
-    <author email="wilcr20@gmail.com" >Wilrex</author>
+    <author email="wilcr20@gmail.com">Wilrex</author>
     <content src="index.html" />
     <access origin="*" />
     <allow-intent href="http://*/*" />

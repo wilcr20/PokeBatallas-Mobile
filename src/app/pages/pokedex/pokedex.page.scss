@@ -6,14 +6,17 @@
 
     .pokedexSection {
         padding-top: 20px;
+
         .imgPokedex {
             border-bottom: 2px solid black;
             min-height: 100px;
             max-height: 100px;
 
             img {
-                width: 40%;
-                height: 95px;
+                min-width: 20%;
+                max-width: 40%;
+                min-height: 85px;
+                max-height: 100px;
             }
         }
 
