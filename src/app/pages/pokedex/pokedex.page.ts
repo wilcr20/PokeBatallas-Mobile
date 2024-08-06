@@ -16,7 +16,7 @@ export class PokedexPage {
     console.log("Pokemon : ", this.pokemonsDataJSON);
   }
 
-  getImgSource(pokemon: any, sufix: string) {
+  getImgSource(sufix: string) {
     return "../../../assets/images/pokemons/" + sufix;
   }
 

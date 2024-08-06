@@ -1,10 +1,11 @@
 <ion-content [fullscreen]="true">
   <div id="container">
-    <div *ngFor="let pokemon of pokemonsDataJSON" style="background-color: white;" (click)="playSound(pokemon.sound)">
-      <br>
-      <img src={{getImgSource(pokemon,pokemon.frontSprite)}} alt="" srcset="">
-      <img src={{getImgSource(pokemon,pokemon.backSprite)}} alt="" srcset="">
-      <hr style="border-top: 2px solid green;">
+    <div class="pokedexSection" *ngFor="let pokemon of pokemonsDataJSON" style="background-color: white;" (click)="playSound(pokemon.sound)">
+      <div class="imgPokedex">
+        <img src={{getImgSource(pokemon.frontSprite)}} alt="" srcset="">
+        <img src={{getImgSource(pokemon.backSprite)}} alt="" srcset="">
+      </div>
+      <p>{{pokemon.name}}</p>
     </div>
   </div>
 
