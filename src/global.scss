@@ -41,3 +41,9 @@ ion-content {
     // --background: radial-gradient(circle, rgba(2, 0, 36, 1) 0%, rgba(9, 28, 121, 1) 28%, rgba(43, 32, 136, 1) 63%, rgba(3, 9, 10, 1) 100%);
     --background: black;
 }
+
+@font-face {
+    font-family: 'GloriaHallelujah-Regular';
+    src: url('assets/fonts/GloriaHallelujah-Regular.ttf');//mine
+    // src: url('path/to/your/font/file');//path to your font file
+  }

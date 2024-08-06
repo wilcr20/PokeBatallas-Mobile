@@ -1,27 +1,12 @@
-<!-- <ion-header [translucent]="true">
-  <ion-toolbar>
-    <ion-title>
-      Blank
-    </ion-title>
-  </ion-toolbar>
-</ion-header> -->
 
 <ion-content [fullscreen]="true">
-  <!-- <ion-header collapse="condense">
-    <ion-toolbar>
-      <ion-title size="large">Blank</ion-title>
-    </ion-toolbar>
-  </ion-header> -->
-
   <div id="container">
-    <div *ngFor="let pokemon of pokemonsDataJSON" style="background-color: white;" (click)="playSound(pokemon.sound)">
-      <br>
-      <img src={{getImgSource(pokemon,pokemon.frontSprite)}}  alt="" srcset="">
-      <img src={{getImgSource(pokemon,pokemon.backSprite)}}  alt="" srcset="">
-      <!-- "../../../assets/images/pokemons/"{{pokemon.frontSprite}}  -->
-      <hr style="border-top: 2px solid green;">
+    <img id="logo" src="../../../assets/images/logo.png" alt="" srcset="">
+
+    <div class="menu">
+      <button>Batalla Pokemón</button>
+      <button (click)="redirectToPokedexPage()" >Pokedex</button>
+      <button>Créditos</button>
     </div>
-    
-    
   </div>
 </ion-content>
