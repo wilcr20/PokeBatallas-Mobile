@@ -1328,6 +1328,720 @@
                     "specialDefense": []
                 }
             ]
+        },
+        {
+            "id": 27,
+            "name": "Sandshrew",
+            "frontSprite": "27_front.gif",
+            "backSprite": "27_back.gif",
+            "sound": "27.ogg",
+            "type1": "ground",
+            "type2": null,
+            "isEvolved": false,
+            "isLegendary": false,
+            "description": "Pese a su nombre, la apariencia de Sandshrew es más semejante a la de un armadillo o un pangolín que a la de una musaraña. Es una criatura pequeña, amarilla y de apariencia similar a un armadillo cubierto de placas duras y con garras afiladas. Sus ojos son grandes y negros.\nEl entorno natural de Sandshrew son los lugares profundos bajo tierra en localizaciones áridas con muy poca humedad, siendo los desiertos el ejemplo más claro, aunque también se encuentra en praderas secas. Elige este hábitat para mantenerse seco, mientras que la arena le provee con un buen camuflaje.\nCuando es molestado, la primera reacción de defensa es instantáneamente enrollar su cuerpo hasta convertirlo en una bola, dejando sólo su fuerte piel expuesta (comparable al sistema de defensa de erizos, armadillos y pangolines). Cuando se enrolla de esta manera, Sandshrew tiene el potencial de resistir varios ataques y caer desde cualquier altura sin dañarse, siendo capaz de rebotar. Es un Pokémon muy paciente, permanecerá hecho bola hasta que esté seguro de que haya pasado el peligro. Usa esta forma para atravesar el desierto rodando a gran velocidad. Pese a que tiene aversión por el agua, Sandshrew sí la necesita para sobrevivir. Su metabolismo está diseñado de tal forma que puede absorber agua con una mojada mínima, permitiéndole vivir con pequeñas cantidades de este elemento. Se conoce también que mientras duerme durante las noches frías, por la mañana despierta con una fina capa de rocío mañanero.",
+            "statsValuesBylevel": 
+            [
+                {
+                    "level": 1,
+                    "hp": [] ,
+                    "attack": [],
+                    "defense": [],
+                    "speed": [],
+                    "specialAttack": [],
+                    "specialDefense": []
+                },
+                {
+                    "level": 25,
+                    "hp": [],
+                    "attack": [],
+                    "defense": [],
+                    "speed": [],
+                    "specialAttack": [],
+                    "specialDefense": []
+                },
+                {
+                    "level": 50,
+                    "hp": [] ,
+                    "attack": [] ,
+                    "defense": [] ,
+                    "speed": [] ,
+                    "specialAttack": [] ,
+                    "specialDefense": []
+                },
+                {
+                    "level": 100,
+                    "hp": [] ,
+                    "attack": [] ,
+                    "defense": [] ,
+                    "speed": [] ,
+                    "specialAttack": [],
+                    "specialDefense": []
+                }
+            ]
+        },
+        {
+            "id": 28,
+            "name": "Sandslash",
+            "frontSprite": "28_front.gif",
+            "backSprite": "28_back.gif",
+            "sound": "28.ogg",
+            "type1": "ground",
+            "type2": null,
+            "isEvolved": true,
+            "isLegendary": false,
+            "description": "Sandslash habita en las mismas zonas áridas que su preevolución Sandshrew, en madrigueras. A veces se les puede ver trepando árboles con sus garras por varias razones, ya sea para dormir en su follaje, cortar y dejar caer bayas para los Sandshrew que esperan debajo o usarlos como escondite de caza, cuando avista una presa, se convierte en una bola de púas y se deja caer sobre ella.\nEl aspecto de Sandslash se asemeja al de un puercoespín o un pangolín. Las garras de sus extremidades delanteras, y su historia evolutiva, sugieren que está basado en un armadillo gigante.\nSu cuerpo es de color amarillento, más oscuro en la espalda. Tiene una coraza de púas en su espalda que van desde la cabeza hasta la cola, las cuales son partes endurecidas de su piel. Las púas le ayudan tanto a protegerse de algunos ataques como a atacar a sus oponentes, enroscándose y girando a toda velocidad para clavárselas. Las enormes garras curvadas de Sandslash son su principal arma de ataque y las usa para excavar hoyos en la tierra dura. Durante su vida es propenso a perder sus garras y púas mientras caza o excava, y cuando esto sucede, sólo tardan un día en regenerarlas. Si esto no sucede, los Sandslash mudan de púas una vez al año para reemplazar las viejas y desgastadas por unas nuevas. Cuanto más seco es el terreno en el que habita, más duras y lisas se vuelven estas. Los humanos buscan y recolectan las garras y púas que pierden para elaborar utensilios de labranza.\nA este Pokémon le gusta enroscarse para protegerse del enemigo o cuando la temperatura es demasiado alta, de este modo evita los golpes de calor. Cuando Sandslash se ve superado en un combate o intenta huir de algún peligro, corre a toda velocidad mientras genera una nube de tierra y polvo que le ayuda para ocultarse.",
+            "statsValuesBylevel": 
+            [
+                {
+                    "level": 1,
+                    "hp": [] ,
+                    "attack": [],
+                    "defense": [],
+                    "speed": [],
+                    "specialAttack": [],
+                    "specialDefense": []
+                },
+                {
+                    "level": 25,
+                    "hp": [],
+                    "attack": [],
+                    "defense": [],
+                    "speed": [],
+                    "specialAttack": [],
+                    "specialDefense": []
+                },
+                {
+                    "level": 50,
+                    "hp": [] ,
+                    "attack": [] ,
+                    "defense": [] ,
+                    "speed": [] ,
+                    "specialAttack": [] ,
+                    "specialDefense": []
+                },
+                {
+                    "level": 100,
+                    "hp": [] ,
+                    "attack": [] ,
+                    "defense": [] ,
+                    "speed": [] ,
+                    "specialAttack": [],
+                    "specialDefense": []
+                }
+            ]
+        },
+        {
+            "id": 29,
+            "name": "Nidoran ♀",
+            "frontSprite": "29_front.gif",
+            "backSprite": "29_back.gif",
+            "sound": "29.ogg",
+            "type1": "poison",
+            "type2": null,
+            "isEvolved": false,
+            "isLegendary": false,
+            "description": "Dentro de su anatomía hay poco parecido con Nidoran macho. Al igual que el macho, oculta en sus púas un poderoso veneno, están pensadas como protección para su pequeño cuerpo. Cuando se enfurece libera una horrible toxina de sus cuernos. Son unos Pokémon muy tranquilos y dóciles, tienen un cierto parecido a roedores por sus enormes incisivos al igual que su contraparte.\nLos Nidoran, tanto las hembras como los machos habitan generalmente en las praderas, aunque en ocasiones es visto en las ciudades. Usa el pequeño cuerno que tiene en su cabeza para defenderse siendo este más pequeño y redondeado que el de los machos, este cuerno segrega un fuerte veneno que podría ser fatal al mínimo roce de este. Posee un olfato más fino que los Nidoran♂. Usa los bigotes para percibir la dirección del viento y buscar comida a sotavento de sus depredadores, cuando encuentra sus bayas favoritas usa sus incisivos para partirlas y comerlas.",
+            "statsValuesBylevel": 
+            [
+                {
+                    "level": 1,
+                    "hp": [] ,
+                    "attack": [],
+                    "defense": [],
+                    "speed": [],
+                    "specialAttack": [],
+                    "specialDefense": []
+                },
+                {
+                    "level": 25,
+                    "hp": [],
+                    "attack": [],
+                    "defense": [],
+                    "speed": [],
+                    "specialAttack": [],
+                    "specialDefense": []
+                },
+                {
+                    "level": 50,
+                    "hp": [] ,
+                    "attack": [] ,
+                    "defense": [] ,
+                    "speed": [] ,
+                    "specialAttack": [] ,
+                    "specialDefense": []
+                },
+                {
+                    "level": 100,
+                    "hp": [] ,
+                    "attack": [] ,
+                    "defense": [] ,
+                    "speed": [] ,
+                    "specialAttack": [],
+                    "specialDefense": []
+                }
+            ]
+        },
+        {
+            "id": 30,
+            "name": "Nidorina",
+            "frontSprite": "30_front.gif",
+            "backSprite": "30_back.gif",
+            "sound": "30.ogg",
+            "type1": "poison",
+            "type2": null,
+            "isEvolved": true,
+            "isLegendary": false,
+            "description": "Es un Pokémon que básicamente reside en los campos de hierba alta, es de naturaleza muy dócil. De un tamaño muy similar a Nidorino, es de tonalidad azulada y, a diferencia del antes mencionado, carece de un cuerno en su cabeza, que según parece, se ha atrofiado para evitar herir a sus crías. A pesar de su docilidad, tiene unas púas en todo su cuerpo que usa para defenderse, erizándolas de un golpe. Sin embargo, como sus púas crecen más lentamente que las de Nidorino, suele usar los mordiscos y arañazos para combatir. Aunque también se les ha visto emitir ondas ultrasónicas para confundir al enemigo.\nViven en manadas conformadas por sus familiares y amigos. Cuando se encuentra dentro de su manada, suelen esconder sus púas para evitar lastimarse unos a otros. El separarse de su grupo suele ponerlas muy nerviosas. Si el peligro se cierne sobre su manada, unirán fuerzas entre todos sus miembros, haciendo un coro de ondas ultrasónicas. Para alimentar a sus crías, primero mastica y ablanda la comida, para después escupir esa masilla a su prole. Usa madrigueras para dormir y mientras duerme en ella, retrae sus púas, eso es una señal de que siente a salvo.",
+            "statsValuesBylevel": 
+            [
+                {
+                    "level": 1,
+                    "hp": [] ,
+                    "attack": [],
+                    "defense": [],
+                    "speed": [],
+                    "specialAttack": [],
+                    "specialDefense": []
+                },
+                {
+                    "level": 25,
+                    "hp": [],
+                    "attack": [],
+                    "defense": [],
+                    "speed": [],
+                    "specialAttack": [],
+                    "specialDefense": []
+                },
+                {
+                    "level": 50,
+                    "hp": [] ,
+                    "attack": [] ,
+                    "defense": [] ,
+                    "speed": [] ,
+                    "specialAttack": [] ,
+                    "specialDefense": []
+                },
+                {
+                    "level": 100,
+                    "hp": [] ,
+                    "attack": [] ,
+                    "defense": [] ,
+                    "speed": [] ,
+                    "specialAttack": [],
+                    "specialDefense": []
+                }
+            ]
+        },
+        {
+            "id": 31,
+            "name": "Nidoqueen",
+            "frontSprite": "31_front.gif",
+            "backSprite": "31_back.gif",
+            "sound": "31.ogg",
+            "type1": "poison",
+            "type2": "ground",
+            "isEvolved": true,
+            "isLegendary": false,
+            "description": "Este Pokémon bípedo posee escamas de tonalidad azulada, además de dos placas en el pecho de color amarillo, al igual que en la parte inferior del abdomen y en la parte inferior de su mandíbula. Tiene dos enormes orejas similares a las de sus preevoluciones, y una hilera de púas que va desde la frente de su cabeza hasta su cola, por las cuales secreta veneno.\nUsa sus duras escamas para protegerse de cualquier ataque. Estas se crecen cíclicamente, es decir, crecen hasta ser remplazadas por otras nuevas. Habita en madrigueras. Con su duro cuerpo y escamas sella la entrada para evitar las visitas de depredadores. Usa su fuerte cuerpo para propinar poderosos movimientos y lanzar por los aires a sus rivales. Se muestra muy protectora, en especial con sus crías, las cuales defiende con gran ferocidad. En esos momentos puede alcanzar su nivel máximo de fuerza, jamás se acobardará ante ninguno de los ataques que reciba, incluso si se trata de de arriesgar su vida. Mientras se trate de defender a sus crías, no dudará en hacerlo. Usa su cuerpo para mecer a sus crías, colocándolas entre las separaciones que hay en sus púas dorsales. Durante este momento, las púas dejan de secretar veneno alguno.",
+            "statsValuesBylevel": 
+            [
+                {
+                    "level": 1,
+                    "hp": [] ,
+                    "attack": [],
+                    "defense": [],
+                    "speed": [],
+                    "specialAttack": [],
+                    "specialDefense": []
+                },
+                {
+                    "level": 25,
+                    "hp": [],
+                    "attack": [],
+                    "defense": [],
+                    "speed": [],
+                    "specialAttack": [],
+                    "specialDefense": []
+                },
+                {
+                    "level": 50,
+                    "hp": [] ,
+                    "attack": [] ,
+                    "defense": [] ,
+                    "speed": [] ,
+                    "specialAttack": [] ,
+                    "specialDefense": []
+                },
+                {
+                    "level": 100,
+                    "hp": [] ,
+                    "attack": [] ,
+                    "defense": [] ,
+                    "speed": [] ,
+                    "specialAttack": [],
+                    "specialDefense": []
+                }
+            ]
+        },
+        {
+            "id": 32,
+            "name": "Nidoran ♂",
+            "frontSprite": "32_front.gif",
+            "backSprite": "32_back.gif",
+            "sound": "32.ogg",
+            "type1": "poison",
+            "type2": null,
+            "isEvolved": false,
+            "isLegendary": false,
+            "description": "Nidoran ♂ tiene aspecto de un pequeño roedor de color rosa, con unos dientes incisivos que sobresalen de su boca, tiene unas patas cortas y una gran cantidad de púas en la espalda, las cuales usa a modo de protección contra posibles depredadores. Desarrolla músculos para el movimiento de sus orejas. Gracias a ello sus orejas pueden moverse libremente hacia cualquier dirección, por esto, ni el más mínimo de los sonidos se le escapa.\nUsa el cuerno venenoso de su frente para embestir y asestar fuertes cornadas, entre más grandes sean sus cuernos más fuerte será su veneno. Vive en las praderas y comúnmente se les ve a sus orejas sobresalir de entre la hierba para explorar su territorio, a pesar de su pequeño tamaño es muy valiente y no dudará en arriesgar su vida para defender a su pareja.\nEn cuanto a la crianza de Nidoran, la cría de un Nidoran macho y un Nidoran hembra puede ser tanto un macho como una hembra, y lo mismo pasa si un Nidoran hembra tiene crías con Ditto. Antes de la sexta generación, las crías de un Nidoran macho y un Ditto siempre eran macho, pero desde entonces pueden salir tanto machos como hembras.",
+            "statsValuesBylevel": 
+            [
+                {
+                    "level": 1,
+                    "hp": [] ,
+                    "attack": [],
+                    "defense": [],
+                    "speed": [],
+                    "specialAttack": [],
+                    "specialDefense": []
+                },
+                {
+                    "level": 25,
+                    "hp": [],
+                    "attack": [],
+                    "defense": [],
+                    "speed": [],
+                    "specialAttack": [],
+                    "specialDefense": []
+                },
+                {
+                    "level": 50,
+                    "hp": [] ,
+                    "attack": [] ,
+                    "defense": [] ,
+                    "speed": [] ,
+                    "specialAttack": [] ,
+                    "specialDefense": []
+                },
+                {
+                    "level": 100,
+                    "hp": [] ,
+                    "attack": [] ,
+                    "defense": [] ,
+                    "speed": [] ,
+                    "specialAttack": [],
+                    "specialDefense": []
+                }
+            ]
+        },
+        {
+            "id": 33,
+            "name": "Nidorino",
+            "frontSprite": "33_front.gif",
+            "backSprite": "33_back.gif",
+            "sound": "33.ogg",
+            "type1": "poison",
+            "type2": null,
+            "isEvolved": true,
+            "isLegendary": false,
+            "description": "Al evolucionar de Nidoran ♂ a Nidorino, sigue manteniendo el color de su cuerpo y las púas de su espalda, sin embargo adquiere una apariencia más robusta y fuerte. Los incisivos de su anterior evolución se han convertido en un par de colmillos que puede usar para atacar, y el cuerno de su frente parece haberse desarrollado aun más. Nidorino y Nidorina, pero tienen tantas diferencias y tan notorias, que la Pokédex los trata como 2 especies diferentes.\nSu cuerno es un arma muy útil, pues tiene una dureza superior al diamante y que además segrega un potente veneno, que al introducirse en el enemigo soltará su carga tóxica. Es un Pokémon muy irascible, erizando sus púas del lomo desafiará a los oponentes con todas sus fuerzas. Sus enormes orejas le sirven para vigilar todo a su alrededor y en cuánto oiga algún ruido atacará sin dudarlo.\nSe le puede encontrar partiendo rocas con su duro cuerno, para encontrar piedras lunares y así poder evolucionar. La concentración de toxinas en su veneno aumenta cuando este Pokémon presenta una subida de adrenalina. Este Pokémon reside generalmente en las praderas acompañado de su familia evolutiva y la fase evolutiva de su contraparte femenina.",
+            "statsValuesBylevel": 
+            [
+                {
+                    "level": 1,
+                    "hp": [] ,
+                    "attack": [],
+                    "defense": [],
+                    "speed": [],
+                    "specialAttack": [],
+                    "specialDefense": []
+                },
+                {
+                    "level": 25,
+                    "hp": [],
+                    "attack": [],
+                    "defense": [],
+                    "speed": [],
+                    "specialAttack": [],
+                    "specialDefense": []
+                },
+                {
+                    "level": 50,
+                    "hp": [] ,
+                    "attack": [] ,
+                    "defense": [] ,
+                    "speed": [] ,
+                    "specialAttack": [] ,
+                    "specialDefense": []
+                },
+                {
+                    "level": 100,
+                    "hp": [] ,
+                    "attack": [] ,
+                    "defense": [] ,
+                    "speed": [] ,
+                    "specialAttack": [],
+                    "specialDefense": []
+                }
+            ]
+        },
+        {
+            "id": 34,
+            "name": "Nidoking",
+            "frontSprite": "34_front.gif",
+            "backSprite": "34_back.gif",
+            "sound": "34.ogg",
+            "type1": "poison",
+            "type2": null,
+            "isEvolved": true,
+            "isLegendary": false,
+            "description": "Está basado en Baragon, un Kaiju japonés perteneciente a la franquicia de Godzilla, al igual que su contraparte Nidoqueen. Al evolucionar de Nidorino a Nidoking, el cuerpo de este Pokémon cambia bastante, pasa de ser cuadrúpedo a ser bípedo, adquiere una fuerte coraza que le protege de cualquier golpe. sus patas delanteras se convierten en un par de brazos acabados en unas garras, que puede usar a modo de manos. Sus orejas siguen siendo grandes y su cuerno también y sigue manteniendo el aspecto espinoso de su espalda como sus anteriores evoluciones.\nEste Pokémon gusta de presumir su hercúlea fuerza, usa como método de ataque su poderosa cola, junto a su duro y pesado cuerpo. En combate usa su pesada cola para oprimir y aplastar a su presa, rompiéndole los huesos, esta cola al agitarla es capaz de tumbar una torre metálica de transmisión o de partir un poste telefónico como si se tratase de un cerillo. Si esto no fuera suficiente, al ver a su enemigo atontado, puede embestirlo con su robusto cuerpo, el cual incrementa su fuerza de impacto al tener una piel tan dura como el acero. Además de lo ya mencionado, en su frente tiene un afilado cuerno tan duro como el diamante, de hecho, se dice que puede pulverizar diamantes con él, de este cuerno segrega un peligrosísimo veneno. En el manga se dice que Nidoking tiene ácido en sus garras, por lo que lo hace más peligroso aún. Cuando este Pokémon se desboca, no hay quien lo pare, sin embargo, puede calmarse ante Nidoqueen, su compañera de toda la vida.\nEste Pokémon habita en las praderas donde se le puede ver junto a Nidoqueen o las preevoluciones de ambos.",
+            "statsValuesBylevel": 
+            [
+                {
+                    "level": 1,
+                    "hp": [] ,
+                    "attack": [],
+                    "defense": [],
+                    "speed": [],
+                    "specialAttack": [],
+                    "specialDefense": []
+                },
+                {
+                    "level": 25,
+                    "hp": [],
+                    "attack": [],
+                    "defense": [],
+                    "speed": [],
+                    "specialAttack": [],
+                    "specialDefense": []
+                },
+                {
+                    "level": 50,
+                    "hp": [] ,
+                    "attack": [] ,
+                    "defense": [] ,
+                    "speed": [] ,
+                    "specialAttack": [] ,
+                    "specialDefense": []
+                },
+                {
+                    "level": 100,
+                    "hp": [] ,
+                    "attack": [] ,
+                    "defense": [] ,
+                    "speed": [] ,
+                    "specialAttack": [],
+                    "specialDefense": []
+                }
+            ]
+        },
+        {
+            "id": 35,
+            "name": "Clefairy",
+            "frontSprite": "35_front.gif",
+            "backSprite": "35_back.gif",
+            "sound": "35.ogg",
+            "type1": "normal",
+            "type2": null,
+            "isEvolved": false,
+            "isLegendary": false,
+            "description": "Clefairy está basado en un pixie. Su redondeado cuerpo es rosa con pequeños brazos y piernas. Tiene un rizo rosa en la cabeza, unas orejas marrones con forma puntiaguda, una cola enrollada y dos pequeñas alitas en la espalda que le ayudan a volar. Clefairy tiene ojos negros.\nAunque es raro de ver normalmente, se le puede ver en las noches de luna llena. En esas ocasiones, salen en grupo para jugar, mientras a su alrededor se genera un misterioso campo magnético. Cuando la luz de la luna baña sus alas, estas emiten un tenue brillo y, sin batirlas siquiera, es capaz de flotar en el aire, lo que le da un aspecto de una adorable hada. Al amanecer, los Clefairy, agotados, regresan a sus refugios de montaña para dormir acurrucados unos con otros. Además Clefairy evoluciona a Clefable si llega a tocar una piedra lunar y algunos de estos ejemplares en estado salvaje poseen una piedra equipada, es por estos motivos que mucha gente asocia a estos Pokémon con la luna. Clefairy es un Pokémon muy popular entre todo el mundo por el aspecto tan dulce que tiene, su naturaleza afable y su adorable grito. La escasez de ejemplares lo hace más valioso aún. Se dice que la felicidad llegará a quien vea un grupo de Clefairy bailando a la luz de la luna llena. En el anime se cree que pueden provenir del espacio exterior y se les ha visto que son capaces de crear naves voladoras. Sin embargo3, no ha habido un informe de que alguien haya visto a un Clefairy o Clefable en la luna y ni siquiera se sabe con exactitud si las piedras lunares realmente provengan de dicho lugar, por lo tanto aún se encuentran haciendo las investigaciones pertinentes sobre este caso.\nEste Pokémon habita las montañas tranquilas donde vive con otros miembros de su especie o familia evolutiva, como el Monte Moon.",
+            "statsValuesBylevel": 
+            [
+                {
+                    "level": 1,
+                    "hp": [] ,
+                    "attack": [],
+                    "defense": [],
+                    "speed": [],
+                    "specialAttack": [],
+                    "specialDefense": []
+                },
+                {
+                    "level": 25,
+                    "hp": [],
+                    "attack": [],
+                    "defense": [],
+                    "speed": [],
+                    "specialAttack": [],
+                    "specialDefense": []
+                },
+                {
+                    "level": 50,
+                    "hp": [] ,
+                    "attack": [] ,
+                    "defense": [] ,
+                    "speed": [] ,
+                    "specialAttack": [] ,
+                    "specialDefense": []
+                },
+                {
+                    "level": 100,
+                    "hp": [] ,
+                    "attack": [] ,
+                    "defense": [] ,
+                    "speed": [] ,
+                    "specialAttack": [],
+                    "specialDefense": []
+                }
+            ]
+        },
+        {
+            "id": 36,
+            "name": "Clefable",
+            "frontSprite": "36_front.gif",
+            "backSprite": "36_back.gif",
+            "sound": "36.ogg",
+            "type1": "normal",
+            "type2": null,
+            "isEvolved": true,
+            "isLegendary": false,
+            "description": "Clefable está basado en un pixie. Tiene mucho parecido a Clefairy, solo se diferencian en que su cabeza, su rizo, sus alas y casi todo el resto del cuerpo se hacen más grandes y alargados.\nSe dice que este Pokémon hada vive en grupos en lo profundo de las montañas, en zonas tranquilas y lejanas. Es encantador y muy tímido, por lo que no le gusta dejarse ver ante las personas. Sus sensibles oídos le permiten distinguir sonidos lejanos, por lo que prefiere habitar en lugares silenciosos. Esta sensibilidad es tal que, es capaz de oír la caída de un alfiler a 1 km de distancia, y la usa para proteger y estar alerta de su propio entorno.\nClefable se mueve dando saltitos haciendo uso de sus alas. Estas le permiten caminar por el agua, pero no llegar a volar. Le encanta darse paseos por los lagos en tranquilas noches de luna llena. Se dice que avistar a una pareja de Clefable dando saltitos trae felicidad al matrimonio. Algunos científicos sostienen que, cuando mira al cielo fijamente en las noches de luna llena, es porque siente nostalgia e intenta escuchar las voces de sus compañeros que dejó atrás en la luna.",
+            "statsValuesBylevel": 
+            [
+                {
+                    "level": 1,
+                    "hp": [] ,
+                    "attack": [],
+                    "defense": [],
+                    "speed": [],
+                    "specialAttack": [],
+                    "specialDefense": []
+                },
+                {
+                    "level": 25,
+                    "hp": [],
+                    "attack": [],
+                    "defense": [],
+                    "speed": [],
+                    "specialAttack": [],
+                    "specialDefense": []
+                },
+                {
+                    "level": 50,
+                    "hp": [] ,
+                    "attack": [] ,
+                    "defense": [] ,
+                    "speed": [] ,
+                    "specialAttack": [] ,
+                    "specialDefense": []
+                },
+                {
+                    "level": 100,
+                    "hp": [] ,
+                    "attack": [] ,
+                    "defense": [] ,
+                    "speed": [] ,
+                    "specialAttack": [],
+                    "specialDefense": []
+                }
+            ]
+        },
+        {
+            "id": 37,
+            "name": "Vulpix",
+            "frontSprite": "37_front.gif",
+            "backSprite": "37_back.gif",
+            "sound": "37.ogg",
+            "type1": "normal",
+            "type2": null,
+            "isEvolved": false,
+            "isLegendary": false,
+            "description": "Vulpix está basado en un zorro rojo, y un kitsune. Es un Pokémon de tamaño pequeño y de patas cortas. Su suave pelaje es corto excepto en el flequillo y en sus seis colas. Su color de pelo es blanco en el vientre, anaranjado en las colas y el flequillo, oscuro en las patas y marrón en el resto del cuerpo. Sus ojos son grises y rasgados, y poseen una buena y aguda vista.\nAl nacer, Vulpix tiene una cola blanca, pero a medida que crece, esta gana color y se va dividiendo desde la punta en seis si recibe cariño por parte de su entrenador. Las seis colas se le rizan de forma majestuosa y su pelaje se va volviendo más suave, lustroso y bello a medida que sus seis colas crecen. Hay que cepillárselas a menudo o, de lo contrario, se le hacen enredos todo el rato. La temperatura de estas colas aumenta de forma radical justo antes de evolucionar. En el interior del cuerpo de Vulpix arde una llama que nunca se extingue. Durante el día, cuando suben las temperaturas, este Pokémon libera llamas por la boca para evitar recalentarse. También es capaz de controlar estas bolas de fuego, estas llamas se asemejan a un fuego fatuo, por lo que algunos las confunden con fantasmas. Al abrazarlo se puede sentir una ligera calidez.\nHabita en las praderas, si es atacado por un enemigo más fuerte que él, finge estar herido para confundirlo y huir.",
+            "statsValuesBylevel": 
+            [
+                {
+                    "level": 1,
+                    "hp": [] ,
+                    "attack": [],
+                    "defense": [],
+                    "speed": [],
+                    "specialAttack": [],
+                    "specialDefense": []
+                },
+                {
+                    "level": 25,
+                    "hp": [],
+                    "attack": [],
+                    "defense": [],
+                    "speed": [],
+                    "specialAttack": [],
+                    "specialDefense": []
+                },
+                {
+                    "level": 50,
+                    "hp": [] ,
+                    "attack": [] ,
+                    "defense": [] ,
+                    "speed": [] ,
+                    "specialAttack": [] ,
+                    "specialDefense": []
+                },
+                {
+                    "level": 100,
+                    "hp": [] ,
+                    "attack": [] ,
+                    "defense": [] ,
+                    "speed": [] ,
+                    "specialAttack": [],
+                    "specialDefense": []
+                }
+            ]
+        },
+        {
+            "id": 38,
+            "name": "Ninetales",
+            "frontSprite": "38_front.gif",
+            "backSprite": "38_back.gif",
+            "sound": "38.ogg",
+            "type1": "fire",
+            "type2": null,
+            "isEvolved": true,
+            "isLegendary": false,
+            "description": "Ninetales es un Pokémon muy parecido a un kitsune, un zorro de nueve colas de la mitología japonesa. Su pelaje es de color dorado, el cual se va haciendo más intenso a medida que envejece y las puntas de sus colas de un color amarillo mostaza o naranja, que al paso de los años va cambiando de color.\nEs un Pokémon dotado de una gran inteligencia, capaz de entender a la perfección el lenguaje humano, además de ser muy fiel a su entrenador. Es extremadamente vengativo, tomar una de sus nueve colas podría causar mil años de una maldición de mala suerte, además de que este rencor puede trascender generaciones. Se dice que cada una tiene un poder místico o sobrenatural en particular que aún está siendo investigado. Existen varias leyendas en torno a este Pokémon, una cuenta que es la reencarnación de 9 nobles santos, otra que nació de la fusión de 9 hechiceros que tenían poderes sagrados, una más menciona que esta fusión fue entre 9 deidades. Este Pokémon es muy longevo, se dice que puede llegar a vivir mil años. Puede emitir una siniestra luz de sus ojos para conseguir controlar la mente de su rival. Controla las llamas que expele de su boca para hipnotizar y capturar a sus presas.\nEste Pokémon habita generalmente en las praderas como su preevolución, aunque puede ser visto en zonas calurosas y secas.",
+            "statsValuesBylevel": 
+            [
+                {
+                    "level": 1,
+                    "hp": [] ,
+                    "attack": [],
+                    "defense": [],
+                    "speed": [],
+                    "specialAttack": [],
+                    "specialDefense": []
+                },
+                {
+                    "level": 25,
+                    "hp": [],
+                    "attack": [],
+                    "defense": [],
+                    "speed": [],
+                    "specialAttack": [],
+                    "specialDefense": []
+                },
+                {
+                    "level": 50,
+                    "hp": [] ,
+                    "attack": [] ,
+                    "defense": [] ,
+                    "speed": [] ,
+                    "specialAttack": [] ,
+                    "specialDefense": []
+                },
+                {
+                    "level": 100,
+                    "hp": [] ,
+                    "attack": [] ,
+                    "defense": [] ,
+                    "speed": [] ,
+                    "specialAttack": [],
+                    "specialDefense": []
+                }
+            ]
+        },
+        {
+            "id": 39,
+            "name": "Jigglypuff",
+            "frontSprite": "39_front.gif",
+            "backSprite": "39_back.gif",
+            "sound": "39.ogg",
+            "type1": "normal",
+            "type2": null,
+            "isEvolved": false,
+            "isLegendary": false,
+            "description": "Jigglypuff tiene un cuerpo circular, rosa, esponjoso y acentuado con pequeños apéndices, así como una mota de cabello en su cabeza. Tiene unos enormes ojos azules y unas orejas puntiagudas.\nSu ataque más popular es canto, que pone a dormir a sus oponentes. Su tesitura es de 12 octavas. En algunos estantes de los grandes almacenes, se encuentran discos con recopilaciones de canciones para dormir (nanas) de Jigglypuff. Tiene la extraña habilidad de inflar todo su cuerpo aspirando aire. Esto además le permite mantenerse en el aire durante unos segundos, ya que gracias a su fisionomía es capaz de flotar. Es de la especie globo, ya que en Pokémon Stadium si este es vencido se desinfla como un globo, además de que en varios medios se le ha visto flotar en el aire. Cuando le tiemblan sus grandes y adorables ojos redondos es un indicador de que comenzará a cantar, si se hincha antes de hacerlo puede cantar durante un tiempo mucho mayor. No deja de cantar ni estando dormido, por lo que hay que tener mucho cuidado de no oír su canción.\nEste Pokémon puede ajustar el volumen de su voz, sin pausarse para respirar. Como resultado, cuando su oyente no muestra señales de sueño, continuará cantando hasta que haya usado todo su oxígeno, lo que puede ser un problema, ya que su vida puede correr peligro. Los Jigglypuff viven principalmente en zonas de pradera, aunque a veces pasea por las ciudades.",
+            "statsValuesBylevel": 
+            [
+                {
+                    "level": 1,
+                    "hp": [] ,
+                    "attack": [],
+                    "defense": [],
+                    "speed": [],
+                    "specialAttack": [],
+                    "specialDefense": []
+                },
+                {
+                    "level": 25,
+                    "hp": [],
+                    "attack": [],
+                    "defense": [],
+                    "speed": [],
+                    "specialAttack": [],
+                    "specialDefense": []
+                },
+                {
+                    "level": 50,
+                    "hp": [] ,
+                    "attack": [] ,
+                    "defense": [] ,
+                    "speed": [] ,
+                    "specialAttack": [] ,
+                    "specialDefense": []
+                },
+                {
+                    "level": 100,
+                    "hp": [] ,
+                    "attack": [] ,
+                    "defense": [] ,
+                    "speed": [] ,
+                    "specialAttack": [],
+                    "specialDefense": []
+                }
+            ]
+        },
+        {
+            "id": 40,
+            "name": "Wigglytuff",
+            "frontSprite": "40_front.gif",
+            "backSprite": "40_back.gif",
+            "sound": "40.ogg",
+            "type1": "normal",
+            "type2": null,
+            "isEvolved": true,
+            "isLegendary": false,
+            "description": "Wigglytuff está basado en un globo, en un conejo común y en dulces rellenos como los profiteroles. Su cuerpo es grande y redondeado y de este parten patas y brazos cortos. Su piel es principalmente de color rosa pálido, aunque la zona de su vientre es de color blanca. En su cara posee unos grandes ojos de color azul turquesa y un mechón rizado en la parte superior de su cabeza. De su cabeza también parten sendas orejas alargadas como las de un conejo con la zona interior de color negro y la punta también cubierta de pelaje blanco.\nEl cuerpo de Wigglytuff es muy similar a un globo: es blando, gomoso y muy elástico. Además, es capaz de inhalar aire para inflar su cuerpo. Esto es algo que hace frecuentemente cuando se enfada o se siente amenazado, con la finalidad de intimidar a su oponente. El tamaño de su cuerpo cuando se infla es monstruosamente grande, pareciendo no tener límite. Se han llegado a ver Wigglytuff que han alcanzado 20 veces su tamaño normal. Estos Pokémon no solo se inflan por enfado, pues suelen competir para ver quién es capaz de hincharse más por diversión. Cuando está inflado, Wigglytuff puede rebotar fácilmente por todas partes como si fuera una pelota o golpear a sus oponentes con un golpe cuerpo muy potente.\nWigglytuff tiene una capa de un pelaje finísimo. Este es muy popular, dado que es muy agradable al tacto, en especial el pelaje del mechón de su frente. Este es considerado como de calidad de lujo y cuando lo muda con las estaciones, la gente aprovecha para recogerlo y hacer artículos de lujo. La gente que ha acariciado el pelaje de un Wigglytuff tiene dificultad para dejarlo de lo agradable que es y algunos dicen que dormir junto a uno es una maravilla. De hecho, si dos Wigglytuff se abrazan, no querrán separarse nunca más. Los ojos de Wigglytuff están cubiertos por una delgada capa de secreción lacrimal, por lo que si algún polvo o suciedad llegara a entrar en ellos, serán rápidamente expulsados. Esta capa le da siempre a sus ojos un aspecto brillante.\nEn el anime, los Wigglytuff suelen ser los Pokémon más comunes como ayudantes de las enfermeras Joy en los Centros Pokémon de la región de Kalos.",
+            "statsValuesBylevel": 
+            [
+                {
+                    "level": 1,
+                    "hp": [] ,
+                    "attack": [],
+                    "defense": [],
+                    "speed": [],
+                    "specialAttack": [],
+                    "specialDefense": []
+                },
+                {
+                    "level": 25,
+                    "hp": [],
+                    "attack": [],
+                    "defense": [],
+                    "speed": [],
+                    "specialAttack": [],
+                    "specialDefense": []
+                },
+                {
+                    "level": 50,
+                    "hp": [] ,
+                    "attack": [] ,
+                    "defense": [] ,
+                    "speed": [] ,
+                    "specialAttack": [] ,
+                    "specialDefense": []
+                },
+                {
+                    "level": 100,
+                    "hp": [] ,
+                    "attack": [] ,
+                    "defense": [] ,
+                    "speed": [] ,
+                    "specialAttack": [],
+                    "specialDefense": []
+                }
+            ]
         }
     ]
 }
