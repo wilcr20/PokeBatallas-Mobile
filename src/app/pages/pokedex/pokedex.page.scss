@@ -1,34 +1,96 @@
+ion-content {
+    --background: url('../../../assets/images/backgroundPokedex.jpg') no-repeat 100% 100%;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.modalBody {
+    text-align: center;
+    margin-top: -5%;
+
+    h1 {
+        color: white;
+        font-size: 2.5em;
+        font-family: 'GloriaHallelujah-Regular';
+    }
+
+    .imgInfo {
+        // display: block;
+        display: inline-flex;
+        gap: 15px;
+
+        img {
+            // float: left;
+            border: 2px solid black;
+            border-radius: 20%;
+            padding: 1em;
+            /* max-width: 385px; */
+            min-width: 140px;
+            background-color: rgba(255, 255, 255, 0.6);
+            max-height: 150px;
+        }
+
+        .infoType {
+            position: absolute;
+            // top: 40%;
+            top: 200px;
+            left: 0%;
+
+            p {
+                // float: left;
+                // margin-left: 3em;
+                color: white;
+
+            }
+        }
+
+    }
+
+
+}
+
 #container {
     text-align: center;
     display: grid;
     grid-template-columns: repeat(2, minmax(0, 1fr));
-    grid-gap: 5px;
+    // grid-gap: 10px;
+    padding: 10% 2% 10% 2%;
 
     .pokedexSection {
         padding-top: 20px;
+        background: rgba(255, 255, 264, 0.4);
+        border-radius: 10%;
+        border: 2px solid black;
+        margin: 0.5em;
+        -webkit-box-shadow: inset 5px 10px 20px 4px rgba(0, 0, 0, 0.62);
+        -moz-box-shadow: inset 5px 10px 20px 4px rgba(0, 0, 0, 0.62);
+        box-shadow: inset 5px 10px 20px 4px rgba(0, 0, 0, 0.62);
+    }
 
-        .imgPokedex {
-            border-bottom: 2px solid black;
-            min-height: 100px;
-            max-height: 100px;
+    .imgPokedex {
+        // border-bottom: 2px solid black;
+        min-height: 90px;
+        max-height: 100px;
 
-            img {
-                min-width: 20%;
-                max-width: 40%;
-                min-height: 85px;
-                max-height: 100px;
-            }
-        }
-
-
-        p {
-            font-weight: bold;
-            bottom: -10px;
-            position: relative;
-            font-size: 1.1rem;
-            margin-top: -5px;
-            font-family: 'GloriaHallelujah-Regular';
+        img {
+            min-width: 30%;
+            max-width: 45%;
+            min-height: 5em;
+            max-height: 8em;
         }
     }
 
+
+    p {
+        font-weight: bold;
+        bottom: -10px;
+        position: relative;
+        font-size: 1.1rem;
+        margin-top: -5px;
+        font-family: 'GloriaHallelujah-Regular';
+        background: #b0b2b2;
+        border: 2px solid black;
+        border-radius: 25px;
+    }
 }

@@ -1,15 +1,48 @@
 <ion-content [fullscreen]="true">
+  <ion-modal [isOpen]="isModalOpen" [backdropDismiss]="false">
+    <ng-template>
+      <ion-header>
+        <ion-toolbar>
+          <!-- <ion-title>Modal</ion-title> -->
+          <ion-buttons slot="end">
+            <ion-button (click)="setOpen(false)">Cerrar</ion-button>
+          </ion-buttons>
+        </ion-toolbar>
+      </ion-header>
+      <ion-content class="ion-padding">
+        <div class="modalBody" *ngIf="pokemonSelected">
+          <h1>{{pokemonSelected.name}}</h1>
+          <div class="imgInfo">
+            <img src={{getImgSource(pokemonSelected.frontSprite)}} (click)="playSound(pokemonSelected.sound)" alt=""
+              srcset="">
+            <img src={{getImgSource(pokemonSelected.backSprite)}} (click)="playSound(pokemonSelected.sound)" alt=""
+              srcset="">
+
+            <div class="infoType">
+              <p>Tipo 1</p>
+              <p>Tipo 1</p>
+            </div>
+          </div>
+        </div>
+
+      </ion-content>
+    </ng-template>
+  </ion-modal>
+
+
+
   <div id="container">
-    <div class="pokedexSection" *ngFor="let pokemon of pokemonsDataJSON" style="background-color: white;" (click)="playSound(pokemon.sound)">
+    <div class="pokedexSection" *ngFor="let pokemon of pokemonsDataJSON"
+      (click)="setOpen(true);setPokemonSelected(pokemon);playSound(pokemon.sound)">
       <div class="imgPokedex">
         <img src={{getImgSource(pokemon.frontSprite)}} alt="" srcset="">
-        <img src={{getImgSource(pokemon.backSprite)}} alt="" srcset="">
+        <!-- <img src={{getImgSource(pokemon.backSprite)}} alt="" srcset=""> -->
       </div>
       <p>{{pokemon.name}}</p>
     </div>
   </div>
 
-  
+
 
 
 
