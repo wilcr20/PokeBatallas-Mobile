@@ -10,19 +10,40 @@
         </ion-toolbar>
       </ion-header>
       <ion-content class="ion-padding">
-        <div class="modalBody" *ngIf="pokemonSelected">
+        <div class="nameAndImgSection" *ngIf="pokemonSelected">
           <h1>{{pokemonSelected.name}}</h1>
           <div class="imgInfo">
             <img src={{getImgSource(pokemonSelected.frontSprite)}} (click)="playSound(pokemonSelected.sound)" alt=""
               srcset="">
             <img src={{getImgSource(pokemonSelected.backSprite)}} (click)="playSound(pokemonSelected.sound)" alt=""
               srcset="">
-
-            <div class="infoType">
-              <p>Tipo 1</p>
-              <p>Tipo 1</p>
-            </div>
           </div>
+        </div>
+        
+        <div class="typeInfoSection">
+          <div class="typeText" *ngIf="pokemonSelected.type1">
+            <span [ngClass]="{'fire':  pokemonSelected.type1 == 'fire','flying':  pokemonSelected.type1 == 'flying','normal':  pokemonSelected.type1 == 'normal'
+            ,'water':  pokemonSelected.type1 == 'water','fighting':  pokemonSelected.type1 == 'fighting','grass':  pokemonSelected.type1 == 'grass'
+            ,'poison':  pokemonSelected.type1 == 'poison','electric':  pokemonSelected.type1 == 'electric','ground':  pokemonSelected.type1 == 'ground'
+            ,'psychic':  pokemonSelected.type1 == 'psychic','rock':  pokemonSelected.type1 == 'rock','ice':  pokemonSelected.type1 == 'ice'
+            ,'bug':  pokemonSelected.type1 == 'bug','dragon':  pokemonSelected.type1 == 'dragon'
+          }">
+              {{movementsService.getTranslation(pokemonSelected.type1)}}
+            </span>
+          </div>
+          <div class="typeText" *ngIf="pokemonSelected.type2">
+            <span [ngClass]="{'fire':  pokemonSelected.type2 == 'fire','flying':  pokemonSelected.type2 == 'flying','normal':  pokemonSelected.type2 == 'normal'
+            ,'water':  pokemonSelected.type2 == 'water','fighting':  pokemonSelected.type2 == 'fighting','grass':  pokemonSelected.type2 == 'grass'
+            ,'poison':  pokemonSelected.type2 == 'poison','electric':  pokemonSelected.type2 == 'electric','ground':  pokemonSelected.type2 == 'ground'
+            ,'psychic':  pokemonSelected.type2 == 'psychic','rock':  pokemonSelected.type2 == 'rock','ice':  pokemonSelected.type2 == 'ice'
+            ,'bug':  pokemonSelected.type2 == 'bug','dragon':  pokemonSelected.type2 == 'dragon'}">
+              {{movementsService.getTranslation(pokemonSelected.type2)}}
+            </span>
+          </div>
+        </div>
+
+        <div class="descriptionSection">
+          <p>{{pokemonSelected.description}}</p>
         </div>
 
       </ion-content>

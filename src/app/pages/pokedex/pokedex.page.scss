@@ -5,7 +5,7 @@ ion-content {
     background-size: cover;
 }
 
-.modalBody {
+.nameAndImgSection {
     text-align: center;
     margin-top: -5%;
 
@@ -16,39 +16,118 @@ ion-content {
     }
 
     .imgInfo {
-        // display: block;
         display: inline-flex;
         gap: 15px;
 
         img {
-            // float: left;
             border: 2px solid black;
             border-radius: 20%;
             padding: 1em;
-            /* max-width: 385px; */
             min-width: 140px;
             background-color: rgba(255, 255, 255, 0.6);
             max-height: 150px;
         }
+    }
+}
 
-        .infoType {
-            position: absolute;
-            // top: 40%;
-            top: 200px;
-            left: 0%;
 
-            p {
-                // float: left;
-                // margin-left: 3em;
-                color: white;
+.typeInfoSection {
+    display: inline-flex;
+    margin-top: 15px;
+    margin-left: 10%;
 
+    .typeText {
+        top: 270px;
+
+        span {
+            font-size: 1.35rem;
+            color: white;
+            font-family: monospace;
+            padding: 5px 10px 5px 10px;
+            border-radius: 15px;
+            margin-left: 15px;
+            font-weight: bold;
+
+            &.fire {
+                background-color: #E52829;
             }
-        }
 
+            &.normal {
+                background-color: #9FA19F;
+                color: black;
+            }
+
+            &.water {
+                background-color: #2980EF;
+            }
+
+            &.flying {
+                background-color: #81B9EF;
+            }
+
+            &.fighting {
+                background-color: #FF8000;
+            }
+
+            &.grass {
+                background-color: #3FA129;
+            }
+
+            &.poison {
+                background-color: #9141CB;
+            }
+
+            &.electric {
+                background-color: #FAC000;
+                color: black;
+            }
+
+            &.ground {
+                background-color: #905021;
+            }
+
+            &.psychic {
+                background-color: #EF4179;
+            }
+
+            &.rock {
+                background-color: #AFA981;
+            }
+
+            &.ice {
+                background-color: #3DCEF3;
+            }
+
+            &.bug {
+                background-color: #91A119;
+            }
+
+            &.dragon {
+                background-color: #5060E1;
+            }
+
+        }
     }
 
-
 }
+
+
+.descriptionSection {
+    border: 2px solid black;
+    border-radius: 20px;
+    margin: 20px 0 20px 0;
+    padding: 0.5em 1em;
+    // white-space: normal;
+
+    background: rgba(255, 255, 255, 0.4);
+
+    p {
+        white-space: pre-wrap;
+        color: black;
+        font-size: larger;
+    }
+}
+
 
 #container {
     text-align: center;
