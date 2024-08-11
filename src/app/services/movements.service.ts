@@ -1,4 +1,6 @@
 import { Injectable } from '@angular/core';
+import typeChartData from "../data/typeChart.json";
+
 
 @Injectable({
   providedIn: 'root'
@@ -42,5 +44,18 @@ export class MovementsService {
     }
   }
 
-  
+  getEffectivityValueForAttack(attackType: string, defenseType1: string, defenseType2?: string) {
+    let typeChart = typeChartData.data;
+    // console.log(typeChart)
+    let valuesByType = typeChart.filter(t => t.typeAttack == attackType);
+    
+    Object.entries(valuesByType[0].effectivity).forEach(([key, value]) => {
+      if(key == defenseType1){
+        console.log(attackType + " contra "+ defenseType1 +" = "+ value) // key - value
+      }
+  })
+
+  }
+
+
 }

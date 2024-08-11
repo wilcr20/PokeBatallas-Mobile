@@ -6,7 +6,6 @@ import pokemonsData from "../data/pokemons.json";
 })
 export class PokemonService {
 
-  // pokemonsDataJSON: any = pokemonsData.data;
   constructor() { }
 
   getPokemonList(){
