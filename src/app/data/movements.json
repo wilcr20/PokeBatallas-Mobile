@@ -359,6 +359,138 @@
             "priority": 0,
             "needContact": true,
             "description": "Causa daño y el usuario recupera el 50% de los PS quitados por el movimiento al objetivo"
+        },
+        {
+            "id": 31,
+            "name": "Clavo cañón",
+            "type": "normal",
+            "class": "physical",
+            "power": 20,
+            "accuracy": 100,
+            "pp": 15,
+            "priority": 0,
+            "needContact": false,
+            "description": "Causa daño golpeando al objetivo de 2 a 5 veces en un mismo turno."
+        },
+        {
+            "id": 32,
+            "name": "Comesueños",
+            "type": "psychic",
+            "class": "special",
+            "power": 100,
+            "accuracy": 100,
+            "pp": 15,
+            "priority": 0,
+            "needContact": false,
+            "description": "Causa daño a un objetivo dormido y el usuario recupera el 50% de los PS quitados por el movimiento al objetivo."
+        },
+        {
+            "id": 33,
+            "name": "Confusión",
+            "type": "psychic",
+            "class": "special",
+            "power": 50,
+            "accuracy": 100,
+            "pp": 25,
+            "priority": 0,
+            "needContact": false,
+            "description": "Causa daño y tiene una probabilidad del 10% de confundir al objetivo."
+        },
+        {
+            "id": 34,
+            "name": "Repetición",
+            "type": "normal",
+            "class": "physical",
+            "power": 15,
+            "20": 85,
+            "pp": 20,
+            "priority": 0,
+            "needContact": true,
+            "description": "Causa daño durante 2-5 turnos."
+        },
+        {
+            "id": 35,
+            "name": "Contador",
+            "type": "fighting",
+            "class": "physical",
+            "power": null,
+            "accuracy": 100,
+            "pp": 20,
+            "priority": -5,
+            "needContact": true,
+            "description": "Devuelve el doble de daño de un movimiento recibido en ese turno solo si este es de tipo lucha o de tipo normal."
+        },
+        {
+            "id": 36,
+            "name": "Conversión",
+            "type": "normal",
+            "class": "state",
+            "power": null,
+            "accuracy": null,
+            "pp": 30,
+            "priority": 0,
+            "needContact": false,
+            "description": "Cambia el tipo del usuario al tipo del oponente."
+        },
+        {
+            "id": 37,
+            "name": "Cornada",
+            "type": "normal",
+            "class": "physical",
+            "power": 65,
+            "accuracy": 100,
+            "pp": 25,
+            "priority": 0,
+            "needContact": true,
+            "description": "Causa daño y no tiene ningún efecto secundario."
+        },
+        {
+            "id": 38,
+            "name": "Corte",
+            "type": "normal",
+            "class": "physical",
+            "power": 50,
+            "accuracy": 95,
+            "pp": 30,
+            "priority": 0,
+            "needContact": true,
+            "description": "Causa daño y no tiene ningún efecto secundario."
+        },
+        {
+            "id": 39,
+            "name": "Cuchillada",
+            "type": "normal",
+            "class": "physical",
+            "power": 70,
+            "accuracy": 100,
+            "pp": 20,
+            "priority": 0,
+            "needContact": true,
+            "description": "Causa daño y tiene una alta probabilidad de asestar un golpe crítico."
+        },
+        {
+            "id": 40,
+            "name": "Danza-espada",
+            "type": "normal",
+            "class": "state",
+            "power": null,
+            "accuracy": null,
+            "pp": 30,
+            "priority": 0,
+            "needContact": false,
+            "description": "Sube dos niveles el ataque del usuario."
+        },
+        {
+            "id": 41,
+            "name": "Danza pétalo",
+            "type": "grass",
+            "class": "special",
+            "power": 70,
+            "accuracy": 100,
+            "pp": 20,
+            "priority": 0,
+            "needContact": true,
+            "description": "Causa daño de 3 a 4 turnos seguidos. Durante esos turnos el usuario solo podrá usar danza pétalo y no podrá ser cambiado."
         }
     ]
 }

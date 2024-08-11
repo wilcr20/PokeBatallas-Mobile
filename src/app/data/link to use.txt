@@ -10,4 +10,7 @@ To get movements name and type https://www.wikidex.net/wiki/Lista_de_movimientos
 // add movemnets by level?? 
 https://www.pokencyclopedia.info/en/index.php?id=types // for gen 1
 
+
+// compare chart type used https://www.pokeos.com/tools/type-calc
+
 \n

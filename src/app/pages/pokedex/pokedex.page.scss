@@ -105,6 +105,9 @@ ion-content {
             &.dragon {
                 background-color: #5060E1;
             }
+            &.ghost{
+                background-color: #704070;
+            }
 
         }
     }
@@ -117,7 +120,6 @@ ion-content {
     border-radius: 20px;
     margin: 20px 0 20px 0;
     padding: 0.5em 1em;
-    // white-space: normal;
 
     background: rgba(255, 255, 255, 0.4);
 
