@@ -19,18 +19,24 @@ export class HomePage {
   
 
   ionViewWillEnter() {
-    this.movementsService.getEffectivityValueForAttack("grass", "water");
-    this.movementsService.getEffectivityValueForAttack("fire", "poison");
-    this.movementsService.getEffectivityValueForAttack("water", "rock");
-    this.movementsService.getEffectivityValueForAttack("dragon", "dragon");
-    this.movementsService.getEffectivityValueForAttack("psychic", "ghost");
-    this.movementsService.getEffectivityValueForAttack("fighting", "ghost");
+    this.movementsService.getEffectivityValueForAttack("ice", "grass", "dragon");
+    this.movementsService.getEffectivityValueForAttack("poison", "ground", "rock");
+    this.movementsService.getEffectivityValueForAttack("fire", "normal", "rock");
+    this.movementsService.getEffectivityValueForAttack("fighting", "normal", "poison");
+    this.movementsService.getEffectivityValueForAttack("poison", "bug", "fire"); // good
+    this.movementsService.getEffectivityValueForAttack("fighting", "ghost", "normal");
+    this.movementsService.getEffectivityValueForAttack("water", "water");
   }
 
   
 
   redirectToPokedexPage(){
     this.router.navigateByUrl("/pokedex")
+  }
+
+  redirectToPokemonBattlePage(){
+    this.router.navigateByUrl("/play-battle")
+
   }
 
 }

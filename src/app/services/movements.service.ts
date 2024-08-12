@@ -1,5 +1,7 @@
 import { Injectable } from '@angular/core';
 import typeChartData from "../data/typeChart.json";
+import movementsData from "../data/movements.json";
+import { Movement } from '../interfaces/movement.interface';
 
 
 @Injectable({
@@ -44,17 +46,26 @@ export class MovementsService {
     }
   }
 
+  getMovementsList(): Array<Movement> {
+    return movementsData.data as Array<Movement>;
+  }
+
   getEffectivityValueForAttack(attackType: string, defenseType1: string, defenseType2?: string) {
     let typeChart = typeChartData.data;
     // console.log(typeChart)
     let valuesByType = typeChart.filter(t => t.typeAttack == attackType);
-    
+    let effectivityValue = 1;
     Object.entries(valuesByType[0].effectivity).forEach(([key, value]) => {
-      if(key == defenseType1){
-        console.log(attackType + " contra "+ defenseType1 +" = "+ value) // key - value
+      if (key == defenseType1) {
+        effectivityValue = effectivityValue * value;
       }
-  })
-
+      if (defenseType2) {
+        if (key == defenseType2) {
+          effectivityValue = effectivityValue * value;
+        }
+      }
+    })
+    console.log("Efectividad final de " + attackType + " contra " + defenseType1 + "/" + defenseType2 + ": " + effectivityValue);
   }
 
 

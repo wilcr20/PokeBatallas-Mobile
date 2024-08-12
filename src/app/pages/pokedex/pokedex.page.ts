@@ -1,4 +1,5 @@
 import { Component } from '@angular/core';
+import { Pokemon } from 'src/app/interfaces/pokemon.interface';
 import { MovementsService } from 'src/app/services/movements.service';
 import { PokemonService } from 'src/app/services/pokemon.service';
 @Component({
@@ -8,9 +9,22 @@ import { PokemonService } from 'src/app/services/pokemon.service';
 })
 export class PokedexPage {
 
-  pokemonSelected: any;
+  pokemonSelected: Pokemon = {
+    id: 0,
+    name: '',
+    frontSprite: '',
+    backSprite: '',
+    sound: '',
+    type1: '',
+    type2: '',
+    isEvolved: false,
+    isLegendary: false,
+    description: '',
+    statsValuesBylevel: []
+  };
+  
   isModalOpen = false;
-  pokemonsDataJSON: any = [];
+  pokemonsDataJSON: Array<Pokemon> = [];
   backgroundAudio : any;
   backgroundSounds = [
     "Hurry Along 1 - Pokémon Black & Pokémon White (OST).mp3",
@@ -29,7 +43,7 @@ export class PokedexPage {
     
     let index = Math.floor(Math.random() * 2);   
     this.backgroundAudio = new Audio('../../../assets/sounds/background/'+this.backgroundSounds[index]);
-    this.backgroundAudio.volume = 0.5;
+    this.backgroundAudio.volume = 0.3;
     this.backgroundAudio.loop = true;
     this.backgroundAudio.play();
   }
@@ -48,8 +62,8 @@ export class PokedexPage {
     this.isModalOpen = isOpen;
   }
 
-  setPokemonSelected(pokemon:any){
-    this.pokemonSelected = null;
+  setPokemonSelected(pokemon:Pokemon){
+    // this.pokemonSelected = undefined;
     this.pokemonSelected = pokemon;
   }
 
